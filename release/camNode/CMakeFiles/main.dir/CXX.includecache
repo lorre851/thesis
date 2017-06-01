@@ -1,0 +1,170 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/camera_calibration.cpp
+opencv2/calib3d.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/calib3d.hpp
+opencv2/imgcodecs.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/imgcodecs.hpp
+opencv2/highgui.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/highgui.hpp
+opencv2/imgproc.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/imgproc.hpp
+vector
+-
+string
+-
+algorithm
+-
+iostream
+-
+iterator
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/camerascanner.cpp
+camerascanner.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/camerascanner.h
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/camerascanner.h
+sys/ioctl.h
+-
+linux/videodev2.h
+-
+ostream
+-
+iostream
+-
+fcntl.h
+-
+unistd.h
+-
+thread
+-
+opencv2/opencv.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/opencv.hpp
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/config.cpp
+config.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/config.h
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/config.h
+iostream
+-
+sys/stat.h
+-
+stdio.h
+-
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/cvserver.cpp
+cvserver.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/cvserver.h
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/cvserver.h
+opencv2/opencv.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/opencv.hpp
+iostream
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+sys/ioctl.h
+-
+net/if.h
+-
+unistd.h
+-
+string.h
+-
+thread
+-
+queue
+-
+semaphore.h
+-
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/main.cpp
+linux/kd.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/linux/kd.h
+camerascanner.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/camerascanner.h
+streamgrid.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/streamgrid.h
+stereotools.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/stereotools.h
+camera_calibration.cpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/camera_calibration.cpp
+cvserver.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/cvserver.h
+zeromq_tools.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/zeromq_tools.h
+config.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/config.h
+iostream
+-
+fstream
+-
+servus/servus.h
+-
+random
+-
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/stereotools.cpp
+stereotools.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/stereotools.h
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/stereotools.h
+opencv2/opencv.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/opencv.hpp
+opencv2/calib3d/calib3d.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/calib3d/calib3d.hpp
+opencv2/imgproc.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/imgproc.hpp
+opencv2/imgcodecs.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/imgcodecs.hpp
+opencv2/highgui.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/highgui.hpp
+opencv2/core/utility.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/core/utility.hpp
+stdio.h
+-
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/streamgrid.cpp
+streamgrid.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/streamgrid.h
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/streamgrid.h
+opencv2/opencv.hpp
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/opencv2/opencv.hpp
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/zeromq_tools.cpp
+netdb.h
+-
+arpa/inet.h
+-
+dirent.h
+-
+fstream
+-
+zeromq_tools.h
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/zeromq_tools.h
+
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/src/zeromq_tools.h
+iostream
+-
+zmq.hpp
+-
+zconf.h
+-
+

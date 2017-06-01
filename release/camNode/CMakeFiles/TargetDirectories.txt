@@ -1,0 +1,3 @@
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/CMakeFiles/rebuild_cache.dir
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/CMakeFiles/edit_cache.dir
+/media/lorre851/UBUNTU 16_0/thesis/release/camNode/CMakeFiles/main.dir

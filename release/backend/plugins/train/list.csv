@@ -1,0 +1,3676 @@
+ICE;10;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;11;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+ICE;12;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;13;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+ICE;14;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;15;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+ICE;16;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;17;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+ICE;18;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;19;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+IC;106;Liers;Luxembourg
+IC;107;Gouvy;Liers
+IC;108;Liers;Luxembourg
+IC;109;Luxembourg;Liers
+IC;110;Liers;Luxembourg
+IC;111;Luxembourg;Liers
+IC;112;Liers;Luxembourg
+IC;113;Luxembourg;Liers
+IC;114;Liers;Luxembourg
+IC;115;Luxembourg;Liers
+IC;116;Liers;Luxembourg
+IC;117;Luxembourg;Liers
+IC;118;Liers;Luxembourg
+IC;119;Luxembourg;Liers
+IC;120;Liers;Luxembourg
+IC;121;Luxembourg;Liers
+IC;122;Liers;Gouvy
+IC;123;Luxembourg;Liers
+ICE;210;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;211;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+ICE;214;Frankfurt(M) Hbf;Bruxelles-Midi/Brussel-Zuid
+ICE;215;Bruxelles-Midi/Brussel-Zuid;Frankfurt(M) Hbf
+IC;404;Kortrijk;Schaerbeek/Schaarbeek
+IC;405;Kortrijk;Welkenraedt
+IC;406;Kortrijk;Welkenraedt
+IC;407;Kortrijk;Leuven
+IC;408;Oostende;Welkenraedt
+IC;409;Kortrijk;Welkenraedt
+IC;410;Kortrijk;Leuven
+IC;411;Kortrijk;Welkenraedt
+IC;412;Kortrijk;Welkenraedt
+IC;413;Kortrijk;Welkenraedt
+IC;414;Kortrijk;Welkenraedt
+IC;415;Kortrijk;Welkenraedt
+IC;416;Kortrijk;Welkenraedt
+IC;417;Kortrijk;Welkenraedt
+IC;418;Kortrijk;Schaerbeek/Schaarbeek
+IC;419;Kortrijk;Schaerbeek/Schaarbeek
+IC;420;Kortrijk;Schaerbeek/Schaarbeek
+IC;421;Kortrijk;Schaerbeek/Schaarbeek
+IC;422;Kortrijk;Gent-Sint-Pieters
+IC;426;Schaerbeek/Schaarbeek;Kortrijk
+IC;427;Schaerbeek/Schaarbeek;Kortrijk
+IC;428;Welkenraedt;Kortrijk
+IC;429;Welkenraedt;Kortrijk
+IC;430;Welkenraedt;Kortrijk
+IC;431;Welkenraedt;Kortrijk
+IC;432;Welkenraedt;Kortrijk
+IC;433;Leuven;Kortrijk
+IC;434;Welkenraedt;Kortrijk
+IC;435;Welkenraedt;Kortrijk
+IC;436;Leuven;Kortrijk
+IC;437;Welkenraedt;Kortrijk
+IC;438;Welkenraedt;Kortrijk
+IC;439;Welkenraedt;Kortrijk
+IC;440;Welkenraedt;Oostende
+IC;441;Schaerbeek/Schaarbeek;Kortrijk
+IC;442;Schaerbeek/Schaarbeek;Kortrijk
+IC;443;Gent-Sint-Pieters;Kortrijk
+IC;503;Welkenraedt;Eupen
+IC;504;Oostende;Eupen
+IC;505;Oostende;Eupen
+IC;506;Oostende;Eupen
+IC;507;Oostende;Eupen
+IC;508;Oostende;Eupen
+IC;509;Oostende;Eupen
+IC;510;Oostende;Eupen
+IC;511;Oostende;Eupen
+IC;512;Oostende;Eupen
+IC;513;Oostende;Eupen
+IC;514;Oostende;Eupen
+IC;515;Oostende;Eupen
+IC;516;Oostende;Eupen
+IC;517;Oostende;Eupen
+IC;518;Oostende;Eupen
+IC;519;Oostende;Welkenraedt
+IC;520;Oostende;Welkenraedt
+IC;521;Oostende;Welkenraedt
+IC;522;Oostende;Liège-Guillemins
+IC;527;Liège-Guillemins;Oostende
+IC;528;Welkenraedt;Oostende
+IC;529;Eupen;Oostende
+IC;530;Eupen;Oostende
+IC;531;Eupen;Oostende
+IC;532;Eupen;Oostende
+IC;533;Eupen;Oostende
+IC;534;Eupen;Oostende
+IC;535;Eupen;Oostende
+IC;536;Eupen;Oostende
+IC;537;Eupen;Oostende
+IC;538;Eupen;Oostende
+IC;539;Eupen;Oostende
+IC;540;Eupen;Oostende
+IC;541;Eupen;Oostende
+IC;542;Eupen;Oostende
+IC;543;Eupen;Oostende
+IC;544;Eupen;Oostende
+IC;545;Eupen;Oostende
+L;553;Gent-Sint-Pieters;Mechelen
+L;554;Brugge;Mechelen
+L;555;Brugge;Mechelen
+L;556;Brugge;Mechelen
+L;557;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;558;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;559;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;560;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;561;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;562;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;563;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;564;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;565;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;566;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;567;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;568;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;569;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;570;Zeebrugge-Dorp/Zeebrugge-Strand;Mechelen
+L;571;Brugge;Gent-Sint-Pieters
+L;572;Brugge;Gent-Sint-Pieters
+L;576;Dendermonde;Zeebrugge-Dorp/Zeebrugge-Strand
+L;577;Dendermonde;Zeebrugge-Dorp/Zeebrugge-Strand
+L;578;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;579;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;580;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;581;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;582;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;583;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;584;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;585;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;586;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;587;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;588;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;589;Mechelen;Zeebrugge-Dorp/Zeebrugge-Strand
+L;590;Mechelen;Brugge
+L;591;Mechelen;Brugge
+L;592;Mechelen;Brugge
+L;593;Mechelen;Brugge
+L;594;Mechelen;Brugge
+L;595;Mechelen;Dendermonde
+IC;606;Antwerpen-Centraal;Noorderkempen
+IC;607;Antwerpen-Centraal;Noorderkempen
+IC;608;Antwerpen-Centraal;Noorderkempen
+IC;609;Antwerpen-Centraal;Noorderkempen
+IC;610;Antwerpen-Centraal;Noorderkempen
+IC;612;Antwerpen-Centraal;Noorderkempen
+IC;614;Antwerpen-Centraal;Noorderkempen
+IC;615;Antwerpen-Centraal;Noorderkempen
+IC;616;Antwerpen-Centraal;Noorderkempen
+IC;617;Antwerpen-Centraal;Noorderkempen
+IC;618;Antwerpen-Centraal;Noorderkempen
+IC;619;Antwerpen-Centraal;Noorderkempen
+IC;620;Antwerpen-Centraal;Noorderkempen
+IC;621;Antwerpen-Centraal;Noorderkempen
+IC;626;Noorderkempen;Antwerpen-Centraal
+IC;627;Noorderkempen;Antwerpen-Centraal
+IC;628;Noorderkempen;Antwerpen-Centraal
+IC;629;Noorderkempen;Antwerpen-Centraal
+IC;630;Noorderkempen;Antwerpen-Centraal
+IC;632;Noorderkempen;Antwerpen-Centraal
+IC;634;Noorderkempen;Antwerpen-Centraal
+IC;635;Noorderkempen;Antwerpen-Centraal
+IC;636;Noorderkempen;Antwerpen-Centraal
+IC;637;Noorderkempen;Antwerpen-Centraal
+IC;638;Noorderkempen;Antwerpen-Centraal
+IC;639;Noorderkempen;Antwerpen-Centraal
+IC;640;Noorderkempen;Antwerpen-Centraal
+IC;641;Noorderkempen;Antwerpen-Centraal
+IC;704;Antwerpen-Centraal;Poperinge
+IC;705;Antwerpen-Centraal;Poperinge
+IC;706;Antwerpen-Centraal;Poperinge
+IC;707;Antwerpen-Centraal;Poperinge
+IC;708;Antwerpen-Centraal;Poperinge
+IC;709;Antwerpen-Centraal;Poperinge
+IC;710;Antwerpen-Centraal;Poperinge
+IC;711;Antwerpen-Centraal;Poperinge
+IC;712;Antwerpen-Centraal;Poperinge
+IC;713;Antwerpen-Centraal;Poperinge
+IC;714;Antwerpen-Centraal;Poperinge
+IC;715;Antwerpen-Centraal;Poperinge
+IC;716;Antwerpen-Centraal;Poperinge
+IC;717;Antwerpen-Centraal;Poperinge
+IC;718;Antwerpen-Centraal;Poperinge
+IC;719;Antwerpen-Centraal;Poperinge
+IC;720;Antwerpen-Centraal;Poperinge
+IC;721;Antwerpen-Centraal;Poperinge
+IC;722;Antwerpen-Centraal;Kortrijk
+IC;723;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;725;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;726;Poperinge;Antwerpen-Centraal
+IC;727;Poperinge;Antwerpen-Centraal
+IC;728;Poperinge;Antwerpen-Centraal
+IC;729;Poperinge;Antwerpen-Centraal
+IC;730;Poperinge;Antwerpen-Centraal
+IC;731;Poperinge;Antwerpen-Centraal
+IC;732;Poperinge;Antwerpen-Centraal
+IC;733;Poperinge;Antwerpen-Centraal
+IC;734;Poperinge;Antwerpen-Centraal
+IC;735;Poperinge;Antwerpen-Centraal
+IC;736;Poperinge;Antwerpen-Centraal
+IC;737;Poperinge;Antwerpen-Centraal
+IC;738;Poperinge;Antwerpen-Centraal
+IC;739;Poperinge;Antwerpen-Centraal
+IC;740;Poperinge;Antwerpen-Centraal
+IC;741;Poperinge;Antwerpen-Centraal
+IC;742;Poperinge;Antwerpen-Centraal
+IC;743;Poperinge;Antwerpen-Centraal
+IC;744;Poperinge;Antwerpen-Centraal
+L;755;Ronse/Renaix;Eeklo
+L;756;Ronse/Renaix;Eeklo
+L;757;Ronse/Renaix;Eeklo
+L;758;Ronse/Renaix;Eeklo
+L;759;Ronse/Renaix;Eeklo
+L;760;Ronse/Renaix;Eeklo
+L;761;Ronse/Renaix;Eeklo
+L;762;Ronse/Renaix;Eeklo
+L;763;Ronse/Renaix;Eeklo
+L;764;Ronse/Renaix;Eeklo
+L;765;Ronse/Renaix;Eeklo
+L;766;Ronse/Renaix;Eeklo
+L;767;Ronse/Renaix;Eeklo
+L;768;Ronse/Renaix;Eeklo
+L;769;Ronse/Renaix;Eeklo
+L;770;Ronse/Renaix;Eeklo
+L;771;Ronse/Renaix;Gent-Sint-Pieters
+L;772;Ronse/Renaix;Gent-Sint-Pieters
+L;776;Eeklo;Ronse/Renaix
+L;777;Eeklo;Ronse/Renaix
+L;778;Eeklo;Ronse/Renaix
+L;779;Eeklo;Ronse/Renaix
+L;780;Eeklo;Ronse/Renaix
+L;781;Eeklo;Ronse/Renaix
+L;782;Eeklo;Ronse/Renaix
+L;783;Eeklo;Ronse/Renaix
+L;784;Eeklo;Ronse/Renaix
+L;785;Eeklo;Ronse/Renaix
+L;786;Eeklo;Ronse/Renaix
+L;787;Eeklo;Ronse/Renaix
+L;788;Eeklo;Ronse/Renaix
+L;789;Eeklo;Ronse/Renaix
+L;790;Eeklo;Ronse/Renaix
+L;791;Eeklo;Ronse/Renaix
+L;792;Eeklo;Oudenaarde
+L;793;Eeklo;Oudenaarde
+IC;805;Brugge;Kortrijk
+IC;806;Oostende;Kortrijk
+IC;807;Oostende;Kortrijk
+IC;808;Brugge;Kortrijk
+IC;809;Brugge;Kortrijk
+IC;810;Brugge;Kortrijk
+IC;811;Brugge;Kortrijk
+IC;812;Brugge;Kortrijk
+IC;813;Brugge;Kortrijk
+IC;814;Brugge;Kortrijk
+IC;815;Brugge;Kortrijk
+IC;816;Brugge;Kortrijk
+IC;817;Brugge;Kortrijk
+IC;818;Oostende;Kortrijk
+IC;819;Oostende;Kortrijk
+IC;820;Brugge;Kortrijk
+IC;821;Brugge;Kortrijk
+IC;822;Brugge;Kortrijk
+IC;826;Kortrijk;Oostende
+IC;827;Kortrijk;Brugge
+IC;828;Kortrijk;Brugge
+IC;829;Kortrijk;Brugge
+IC;830;Kortrijk;Brugge
+IC;831;Kortrijk;Brugge
+IC;832;Kortrijk;Brugge
+IC;833;Kortrijk;Brugge
+IC;834;Kortrijk;Brugge
+IC;835;Kortrijk;Brugge
+IC;836;Kortrijk;Brugge
+IC;837;Kortrijk;Oostende
+IC;838;Kortrijk;Oostende
+IC;839;Kortrijk;Brugge
+IC;840;Kortrijk;Brugge
+IC;841;Kortrijk;Brugge
+IC;842;Kortrijk;Brugge
+IC;904;Charleroi-Sud;Namur
+IC;905;Mouscron;Namur
+IC;906;Mouscron;Namur
+IC;907;Mouscron;Namur
+IC;908;Tournai;Namur
+IC;909;Tournai;Namur
+IC;910;Tournai;Namur
+IC;911;Tournai;Namur
+IC;912;Tournai;Namur
+IC;913;Tournai;Namur
+IC;914;Tournai;Namur
+IC;915;Tournai;Namur
+IC;916;Tournai;Namur
+IC;917;Tournai;Namur
+IC;918;Tournai;Namur
+IC;919;Tournai;Namur
+IC;920;Tournai;Namur
+IC;921;Tournai;Namur
+IC;927;Namur;Tournai
+IC;928;Namur;Tournai
+IC;929;Namur;Tournai
+IC;930;Namur;Tournai
+IC;931;Namur;Tournai
+IC;932;Namur;Tournai
+IC;933;Namur;Tournai
+IC;934;Namur;Tournai
+IC;935;Namur;Tournai
+IC;936;Namur;Tournai
+IC;937;Namur;Tournai
+IC;938;Namur;Mouscron
+IC;939;Namur;Tournai
+IC;940;Namur;Tournai
+IC;941;Namur;Tournai
+IC;942;Namur;Tournai
+IC;943;Namur;Tournai
+IC;944;Namur;Charleroi-Sud
+IC;1503;Brugge;Genk
+IC;1504;Brugge;Genk
+IC;1505;Blankenberge;Genk
+IC;1506;Blankenberge;Genk
+IC;1507;Blankenberge;Genk
+IC;1508;Blankenberge;Genk
+IC;1509;Blankenberge;Genk
+IC;1510;Blankenberge;Genk
+IC;1511;Blankenberge;Hasselt
+IC;1512;Blankenberge;Genk
+IC;1513;Blankenberge;Genk
+IC;1514;Blankenberge;Genk
+IC;1515;Blankenberge;Genk
+IC;1516;Blankenberge;Genk
+IC;1517;Blankenberge;Genk
+IC;1518;Blankenberge;Genk
+IC;1519;Blankenberge;Genk
+IC;1520;Blankenberge;Hasselt
+IC;1521;Blankenberge;Brugge
+IC;1522;Blankenberge;Brugge
+IC;1525;Brugge;Blankenberge
+IC;1526;Brugge;Blankenberge
+IC;1527;Hasselt;Blankenberge
+IC;1528;Genk;Blankenberge
+IC;1529;Genk;Blankenberge
+IC;1530;Genk;Blankenberge
+IC;1531;Genk;Blankenberge
+IC;1532;Genk;Blankenberge
+IC;1533;Genk;Blankenberge
+IC;1534;Genk;Blankenberge
+IC;1535;Genk;Blankenberge
+IC;1536;Genk;Blankenberge
+IC;1537;Genk;Blankenberge
+IC;1538;Genk;Blankenberge
+IC;1539;Genk;Blankenberge
+IC;1540;Genk;Blankenberge
+IC;1541;Genk;Blankenberge
+IC;1542;Genk;Blankenberge
+IC;1543;Genk;Brugge
+IC;1544;Genk;Brugge
+S6;1553;Geraardsbergen;Schaerbeek/Schaarbeek
+S6;1554;Geraardsbergen;Schaerbeek/Schaarbeek
+S6;1555;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1556;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1557;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1558;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1559;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1560;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1561;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1562;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1563;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1564;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1565;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1566;Aalst;Schaerbeek/Schaarbeek
+S6;1567;Aalst;Schaerbeek/Schaarbeek
+S6;1568;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1569;Denderleeuw;Schaerbeek/Schaarbeek
+S6;1570;Denderleeuw;Enghien/Edingen
+S6;1571;Denderleeuw;Geraardsbergen
+S6;1572;Denderleeuw;Geraardsbergen
+S6;1576;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1577;Schaerbeek/Schaarbeek;Aalst
+S6;1578;Schaerbeek/Schaarbeek;Aalst
+S6;1579;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1580;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1581;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1582;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1583;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1584;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1585;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1586;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1587;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1588;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1589;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1590;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1591;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1592;Schaerbeek/Schaarbeek;Denderleeuw
+S6;1593;Enghien/Edingen;Geraardsbergen
+IC;1605;Knokke;Brugge
+IC;1606;Knokke;Brugge
+IC;1607;Knokke;Brugge
+IC;1608;Knokke;Brugge
+IC;1609;Knokke;Brugge
+IC;1610;Knokke;Brugge
+IC;1611;Knokke;Brugge
+IC;1612;Knokke;Brugge
+IC;1613;Knokke;Brugge
+IC;1614;Knokke;Brugge
+IC;1615;Knokke;Brugge
+IC;1616;Knokke;Brugge
+IC;1617;Knokke;Brugge
+IC;1618;Knokke;Brugge
+IC;1619;Knokke;Brugge
+IC;1620;Knokke;Brugge
+IC;1621;Knokke;Brugge
+IC;1622;Knokke;Brugge
+IC;1625;Brugge;Knokke
+IC;1626;Brugge;Knokke
+IC;1627;Brugge;Knokke
+IC;1628;Brugge;Knokke
+IC;1629;Brugge;Knokke
+IC;1630;Brugge;Knokke
+IC;1631;Brugge;Knokke
+IC;1632;Brugge;Knokke
+IC;1633;Brugge;Knokke
+IC;1634;Brugge;Knokke
+IC;1635;Brugge;Knokke
+IC;1636;Brugge;Knokke
+IC;1637;Brugge;Knokke
+IC;1638;Brugge;Knokke
+IC;1639;Brugge;Knokke
+IC;1640;Brugge;Knokke
+IC;1641;Brugge;Knokke
+IC;1642;Brugge;Knokke
+L;1656;Kortrijk;Oudenaarde
+L;1657;Kortrijk;Oudenaarde
+L;1658;Kortrijk;Oudenaarde
+L;1659;Kortrijk;Oudenaarde
+L;1660;Kortrijk;Oudenaarde
+L;1661;Kortrijk;Oudenaarde
+L;1662;Kortrijk;Oudenaarde
+L;1663;Kortrijk;Oudenaarde
+L;1664;Kortrijk;Oudenaarde
+L;1665;Kortrijk;Oudenaarde
+L;1666;Kortrijk;Oudenaarde
+L;1667;Kortrijk;Oudenaarde
+L;1668;Kortrijk;Oudenaarde
+L;1669;Kortrijk;Oudenaarde
+L;1670;Kortrijk;Oudenaarde
+L;1671;Kortrijk;Oudenaarde
+L;1672;Kortrijk;Oudenaarde
+L;1676;Oudenaarde;Kortrijk
+L;1677;Oudenaarde;Kortrijk
+L;1678;Oudenaarde;Kortrijk
+L;1679;Oudenaarde;Kortrijk
+L;1680;Oudenaarde;Kortrijk
+L;1681;Oudenaarde;Kortrijk
+L;1682;Oudenaarde;Kortrijk
+L;1683;Oudenaarde;Kortrijk
+L;1684;Oudenaarde;Kortrijk
+L;1685;Oudenaarde;Kortrijk
+L;1686;Oudenaarde;Kortrijk
+L;1687;Oudenaarde;Kortrijk
+L;1688;Oudenaarde;Kortrijk
+L;1689;Oudenaarde;Kortrijk
+L;1690;Oudenaarde;Kortrijk
+L;1691;Oudenaarde;Kortrijk
+IC;1704;Mons;Liège-Guillemins
+IC;1705;Quiévrain;Liège-Guillemins
+IC;1706;Quiévrain;Liège-Guillemins
+IC;1707;Quiévrain;Liège-Guillemins
+IC;1708;Quiévrain;Liège-Guillemins
+IC;1709;Quiévrain;Liège-Guillemins
+IC;1710;Quiévrain;Liège-Guillemins
+IC;1711;Quiévrain;Liège-Guillemins
+IC;1712;Quiévrain;Liège-Guillemins
+IC;1713;Quiévrain;Liège-Guillemins
+IC;1714;Quiévrain;Liège-Guillemins
+IC;1715;Quiévrain;Liège-Guillemins
+IC;1716;Quiévrain;Liège-Guillemins
+IC;1717;Quiévrain;Liège-Guillemins
+IC;1718;Quiévrain;Liège-Guillemins
+IC;1719;Quiévrain;Liège-Guillemins
+IC;1720;Quiévrain;Liège-Guillemins
+IC;1727;Liège-Guillemins;Quiévrain
+IC;1728;Liège-Guillemins;Quiévrain
+IC;1729;Liège-Guillemins;Quiévrain
+IC;1730;Liège-Guillemins;Quiévrain
+IC;1731;Liège-Guillemins;Quiévrain
+IC;1732;Liège-Guillemins;Quiévrain
+IC;1733;Liège-Guillemins;Quiévrain
+IC;1734;Liège-Guillemins;Quiévrain
+IC;1735;Liège-Guillemins;Quiévrain
+IC;1736;Liège-Guillemins;Quiévrain
+IC;1737;Liège-Guillemins;Quiévrain
+IC;1738;Liège-Guillemins;Quiévrain
+IC;1739;Liège-Guillemins;Quiévrain
+IC;1740;Liège-Guillemins;Quiévrain
+IC;1741;Liège-Guillemins;Saint-Ghislain
+IC;1742;Liège-Guillemins;Saint-Ghislain
+IC;1743;Liège-Guillemins;Saint-Ghislain
+IC;1744;Liège-Guillemins;Mons
+S1;1755;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+S1;1756;Nivelles;Antwerpen-Centraal
+S1;1757;Nivelles;Antwerpen-Centraal
+S1;1758;Nivelles;Antwerpen-Centraal
+S1;1759;Nivelles;Antwerpen-Centraal
+S1;1760;Nivelles;Antwerpen-Centraal
+S1;1761;Nivelles;Antwerpen-Centraal
+S1;1762;Nivelles;Antwerpen-Centraal
+S1;1763;Nivelles;Antwerpen-Centraal
+S1;1764;Nivelles;Antwerpen-Centraal
+S1;1765;Nivelles;Antwerpen-Centraal
+S1;1766;Nivelles;Antwerpen-Centraal
+S1;1767;Nivelles;Antwerpen-Centraal
+S1;1768;Nivelles;Bruxelles-Nord/Brussel-Noord
+S1;1776;Antwerpen-Centraal;Nivelles
+S1;1777;Antwerpen-Centraal;Nivelles
+S1;1778;Antwerpen-Centraal;Nivelles
+S1;1779;Antwerpen-Centraal;Nivelles
+S1;1780;Antwerpen-Centraal;Nivelles
+S1;1781;Antwerpen-Centraal;Nivelles
+S1;1782;Antwerpen-Centraal;Nivelles
+S1;1783;Antwerpen-Centraal;Nivelles
+S1;1784;Antwerpen-Centraal;Nivelles
+S1;1785;Antwerpen-Centraal;Nivelles
+S1;1786;Antwerpen-Centraal;Nivelles
+S1;1787;Antwerpen-Centraal;Nivelles
+S1;1788;Antwerpen-Centraal;Nivelles
+S1;1789;Antwerpen-Centraal;Nivelles
+S1;1790;Antwerpen-Centraal;Nivelles
+IC;1805;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;1806;Oostende;Antwerpen-Centraal
+IC;1807;Oostende;Antwerpen-Centraal
+IC;1808;Oostende;Antwerpen-Centraal
+IC;1809;Oostende;Antwerpen-Centraal
+IC;1810;Oostende;Antwerpen-Centraal
+IC;1811;Oostende;Antwerpen-Centraal
+IC;1812;Oostende;Antwerpen-Centraal
+IC;1813;Oostende;Antwerpen-Centraal
+IC;1814;Oostende;Antwerpen-Centraal
+IC;1815;Oostende;Antwerpen-Centraal
+IC;1816;Oostende;Antwerpen-Centraal
+IC;1817;Oostende;Antwerpen-Centraal
+IC;1818;Oostende;Antwerpen-Centraal
+IC;1819;Oostende;Antwerpen-Centraal
+IC;1820;Oostende;Antwerpen-Centraal
+IC;1821;Oostende;Antwerpen-Centraal
+IC;1822;Oostende;Antwerpen-Centraal
+IC;1826;Antwerpen-Centraal;Oostende
+IC;1827;Antwerpen-Centraal;Oostende
+IC;1828;Antwerpen-Centraal;Oostende
+IC;1829;Antwerpen-Centraal;Oostende
+IC;1830;Antwerpen-Centraal;Oostende
+IC;1831;Antwerpen-Centraal;Oostende
+IC;1832;Antwerpen-Centraal;Oostende
+IC;1833;Antwerpen-Centraal;Oostende
+IC;1834;Antwerpen-Centraal;Oostende
+IC;1835;Antwerpen-Centraal;Oostende
+IC;1836;Antwerpen-Centraal;Oostende
+IC;1837;Antwerpen-Centraal;Oostende
+IC;1838;Antwerpen-Centraal;Oostende
+IC;1839;Antwerpen-Centraal;Oostende
+IC;1840;Antwerpen-Centraal;Oostende
+IC;1841;Antwerpen-Centraal;Oostende
+IC;1842;Antwerpen-Centraal;Oostende
+L;1856;Gent-Sint-Pieters;Geraardsbergen
+L;1857;Gent-Sint-Pieters;Geraardsbergen
+L;1858;Gent-Sint-Pieters;Geraardsbergen
+L;1859;Gent-Sint-Pieters;Geraardsbergen
+L;1860;Gent-Sint-Pieters;Geraardsbergen
+L;1861;Gent-Sint-Pieters;Geraardsbergen
+L;1862;Gent-Sint-Pieters;Geraardsbergen
+L;1863;Gent-Sint-Pieters;Geraardsbergen
+L;1864;Gent-Sint-Pieters;Geraardsbergen
+L;1865;Gent-Sint-Pieters;Geraardsbergen
+L;1866;Gent-Sint-Pieters;Geraardsbergen
+L;1867;Gent-Sint-Pieters;Geraardsbergen
+L;1868;Gent-Sint-Pieters;Geraardsbergen
+L;1869;Gent-Sint-Pieters;Geraardsbergen
+L;1870;Gent-Sint-Pieters;Geraardsbergen
+L;1871;Gent-Sint-Pieters;Geraardsbergen
+L;1872;Gent-Sint-Pieters;Geraardsbergen
+L;1873;Gent-Sint-Pieters;Geraardsbergen
+L;1875;Geraardsbergen;Gent-Sint-Pieters
+L;1876;Geraardsbergen;Gent-Sint-Pieters
+L;1877;Geraardsbergen;Gent-Sint-Pieters
+L;1878;Geraardsbergen;Gent-Sint-Pieters
+L;1879;Geraardsbergen;Gent-Sint-Pieters
+L;1880;Geraardsbergen;Gent-Sint-Pieters
+L;1881;Geraardsbergen;Gent-Sint-Pieters
+L;1882;Geraardsbergen;Gent-Sint-Pieters
+L;1883;Geraardsbergen;Gent-Sint-Pieters
+L;1884;Geraardsbergen;Gent-Sint-Pieters
+L;1885;Geraardsbergen;Gent-Sint-Pieters
+L;1886;Geraardsbergen;Gent-Sint-Pieters
+L;1887;Geraardsbergen;Gent-Sint-Pieters
+L;1888;Geraardsbergen;Gent-Sint-Pieters
+L;1889;Geraardsbergen;Gent-Sint-Pieters
+L;1890;Geraardsbergen;Gent-Sint-Pieters
+L;1891;Geraardsbergen;Gent-Sint-Pieters
+L;1892;Geraardsbergen;Gent-Sint-Pieters
+IC;1903;Bruxelles-Midi/Brussel-Zuid;Brussels Airport-Zaventem
+IC;1904;Tournai;Brussels Airport-Zaventem
+IC;1905;Tournai;Brussels Airport-Zaventem
+IC;1906;Tournai;Brussels Airport-Zaventem
+IC;1907;Tournai;Brussels Airport-Zaventem
+IC;1908;Tournai;Brussels Airport-Zaventem
+IC;1909;Tournai;Brussels Airport-Zaventem
+IC;1910;Tournai;Brussels Airport-Zaventem
+IC;1911;Tournai;Brussels Airport-Zaventem
+IC;1912;Tournai;Brussels Airport-Zaventem
+IC;1913;Tournai;Brussels Airport-Zaventem
+IC;1914;Tournai;Brussels Airport-Zaventem
+IC;1915;Tournai;Brussels Airport-Zaventem
+IC;1916;Tournai;Brussels Airport-Zaventem
+IC;1917;Tournai;Brussels Airport-Zaventem
+IC;1918;Tournai;Brussels Airport-Zaventem
+IC;1919;Tournai;Brussels Airport-Zaventem
+IC;1920;Tournai;Brussels Airport-Zaventem
+IC;1921;Tournai;Brussels Airport-Zaventem
+IC;1926;Brussels Airport-Zaventem;Tournai
+IC;1927;Brussels Airport-Zaventem;Tournai
+IC;1928;Brussels Airport-Zaventem;Tournai
+IC;1929;Brussels Airport-Zaventem;Tournai
+IC;1930;Brussels Airport-Zaventem;Tournai
+IC;1931;Brussels Airport-Zaventem;Tournai
+IC;1932;Brussels Airport-Zaventem;Tournai
+IC;1933;Brussels Airport-Zaventem;Tournai
+IC;1934;Brussels Airport-Zaventem;Tournai
+IC;1935;Brussels Airport-Zaventem;Tournai
+IC;1936;Brussels Airport-Zaventem;Tournai
+IC;1937;Brussels Airport-Zaventem;Tournai
+IC;1938;Brussels Airport-Zaventem;Tournai
+IC;1939;Brussels Airport-Zaventem;Tournai
+IC;1940;Brussels Airport-Zaventem;Tournai
+IC;1941;Brussels Airport-Zaventem;Tournai
+IC;1942;Brussels Airport-Zaventem;Tournai
+IC;1943;Brussels Airport-Zaventem;Tournai
+IC;1944;Brussels Airport-Zaventem;Bruxelles-Midi/Brussel-Zuid
+IC;1945;Brussels Airport-Zaventem;Bruxelles-Midi/Brussel-Zuid
+S1;1953;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+S1;1954;Charleroi-Sud;Antwerpen-Centraal
+S1;1955;Nivelles;Antwerpen-Centraal
+S1;1956;Nivelles;Antwerpen-Centraal
+S1;1957;Nivelles;Antwerpen-Centraal
+S1;1958;Nivelles;Antwerpen-Centraal
+S1;1959;Nivelles;Antwerpen-Centraal
+S1;1960;Nivelles;Antwerpen-Centraal
+S1;1961;Nivelles;Antwerpen-Centraal
+S1;1962;Nivelles;Antwerpen-Centraal
+S1;1963;Nivelles;Antwerpen-Centraal
+S1;1964;Nivelles;Antwerpen-Centraal
+S1;1965;Nivelles;Antwerpen-Centraal
+S1;1966;Nivelles;Antwerpen-Centraal
+S1;1967;Nivelles;Antwerpen-Centraal
+S1;1968;Nivelles;Antwerpen-Centraal
+S1;1969;Nivelles;Antwerpen-Centraal
+S1;1970;Nivelles;Antwerpen-Centraal
+S1;1971;Nivelles;Antwerpen-Centraal
+S1;1972;Nivelles;Antwerpen-Centraal
+S1;1974;Nivelles;Bruxelles-Nord/Brussel-Noord
+S1;1977;Antwerpen-Centraal;Nivelles
+S1;1978;Antwerpen-Centraal;Nivelles
+S1;1979;Antwerpen-Centraal;Nivelles
+S1;1980;Antwerpen-Centraal;Nivelles
+S1;1981;Antwerpen-Centraal;Nivelles
+S1;1982;Antwerpen-Centraal;Nivelles
+S1;1983;Antwerpen-Centraal;Nivelles
+S1;1984;Antwerpen-Centraal;Nivelles
+S1;1985;Antwerpen-Centraal;Nivelles
+S1;1986;Antwerpen-Centraal;Nivelles
+S1;1987;Antwerpen-Centraal;Nivelles
+S1;1988;Antwerpen-Centraal;Nivelles
+S1;1989;Antwerpen-Centraal;Nivelles
+S1;1990;Antwerpen-Centraal;Nivelles
+S1;1991;Antwerpen-Centraal;Nivelles
+S1;1992;Antwerpen-Centraal;Nivelles
+S1;1993;Antwerpen-Centraal;Nivelles
+S1;1994;Antwerpen-Centraal;Nivelles
+S1;1995;Antwerpen-Centraal;Charleroi-Sud
+S1;1996;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;2003;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;2004;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;2005;Charleroi-Sud;Antwerpen-Centraal
+IC;2006;Charleroi-Sud;Antwerpen-Centraal
+IC;2007;Charleroi-Sud;Antwerpen-Centraal
+IC;2008;Charleroi-Sud;Antwerpen-Centraal
+IC;2009;Charleroi-Sud;Antwerpen-Centraal
+IC;2010;Charleroi-Sud;Antwerpen-Centraal
+IC;2011;Charleroi-Sud;Antwerpen-Centraal
+IC;2012;Charleroi-Sud;Antwerpen-Centraal
+IC;2013;Charleroi-Sud;Antwerpen-Centraal
+IC;2014;Charleroi-Sud;Antwerpen-Centraal
+IC;2015;Charleroi-Sud;Antwerpen-Centraal
+IC;2016;Charleroi-Sud;Antwerpen-Centraal
+IC;2017;Charleroi-Sud;Antwerpen-Centraal
+IC;2018;Charleroi-Sud;Antwerpen-Centraal
+IC;2019;Charleroi-Sud;Antwerpen-Centraal
+IC;2020;Charleroi-Sud;Antwerpen-Centraal
+IC;2021;Charleroi-Sud;Antwerpen-Centraal
+IC;2027;Bruxelles-Nord/Brussel-Noord;Charleroi-Sud
+IC;2028;Antwerpen-Centraal;Charleroi-Sud
+IC;2029;Antwerpen-Centraal;Charleroi-Sud
+IC;2030;Antwerpen-Centraal;Charleroi-Sud
+IC;2031;Antwerpen-Centraal;Charleroi-Sud
+IC;2032;Antwerpen-Centraal;Charleroi-Sud
+IC;2033;Antwerpen-Centraal;Charleroi-Sud
+IC;2034;Antwerpen-Centraal;Charleroi-Sud
+IC;2035;Antwerpen-Centraal;Charleroi-Sud
+IC;2036;Antwerpen-Centraal;Charleroi-Sud
+IC;2037;Antwerpen-Centraal;Charleroi-Sud
+IC;2038;Antwerpen-Centraal;Charleroi-Sud
+IC;2039;Antwerpen-Centraal;Charleroi-Sud
+IC;2040;Antwerpen-Centraal;Charleroi-Sud
+IC;2041;Antwerpen-Centraal;Charleroi-Sud
+IC;2042;Antwerpen-Centraal;Charleroi-Sud
+IC;2043;Antwerpen-Centraal;Charleroi-Sud
+IC;2044;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;2045;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+S10;2055;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2056;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2057;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2058;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2059;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2060;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2061;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2062;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2063;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2064;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2065;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2066;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2067;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2068;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2069;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2070;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2071;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;2076;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2077;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2078;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2079;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2080;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2081;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2082;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2083;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2084;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2085;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2086;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2087;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2088;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2089;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2090;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2091;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;2092;Aalst;Bruxelles-Midi/Brussel-Zuid
+IC;2104;Namur;Luxembourg
+IC;2105;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2106;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2107;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2108;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2109;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2110;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2111;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2112;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2113;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2114;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2115;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2116;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2117;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2118;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2119;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2120;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;2121;Bruxelles-Midi/Brussel-Zuid;Arlon
+IC;2122;Bruxelles-Midi/Brussel-Zuid;Jemelle
+IC;2126;Jemelle;Bruxelles-Midi/Brussel-Zuid
+IC;2127;Arlon;Bruxelles-Midi/Brussel-Zuid
+IC;2128;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2129;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2130;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2131;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2132;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2133;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2134;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2135;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2136;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2137;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2138;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2139;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2140;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2141;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2142;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2143;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;2144;Luxembourg;Namur
+IC;2145;Luxembourg;Arlon
+IC;2146;Luxembourg;Arlon
+S4;2156;Bruxelles-Luxembourg/Brussel-Luxemburg;Aalst
+S4;2157;Bruxelles-Luxembourg/Brussel-Luxemburg;Aalst
+S4;2158;Vilvoorde;Aalst
+S4;2159;Vilvoorde;Aalst
+S4;2160;Mérode;Aalst
+S4;2161;Mérode;Aalst
+S4;2162;Mérode;Aalst
+S4;2163;Mérode;Aalst
+S4;2164;Mérode;Aalst
+S4;2165;Mérode;Aalst
+S4;2166;Vilvoorde;Aalst
+S4;2167;Vilvoorde;Aalst
+S4;2168;Mérode;Aalst
+S4;2169;Mérode;Aalst
+S4;2177;Aalst;Vilvoorde
+S4;2178;Aalst;Vilvoorde
+S4;2179;Aalst;Mérode
+S4;2180;Aalst;Mérode
+S4;2181;Aalst;Mérode
+S4;2182;Aalst;Mérode
+S4;2183;Aalst;Mérode
+S4;2184;Aalst;Mérode
+S4;2185;Aalst;Vilvoorde
+S4;2186;Aalst;Vilvoorde
+S4;2187;Aalst;Mérode
+S4;2188;Aalst;Mérode
+S4;2189;Aalst;Bruxelles-Luxembourg/Brussel-Luxemburg
+S4;2190;Aalst;Bruxelles-Luxembourg/Brussel-Luxemburg
+IC;2204;Gent-Sint-Pieters;Tongeren
+IC;2205;Gent-Sint-Pieters;Tongeren
+IC;2206;Gent-Sint-Pieters;Tongeren
+IC;2207;Gent-Sint-Pieters;Tongeren
+IC;2208;Gent-Sint-Pieters;Tongeren
+IC;2209;Gent-Sint-Pieters;Tongeren
+IC;2210;Gent-Sint-Pieters;Tongeren
+IC;2211;Gent-Sint-Pieters;Tongeren
+IC;2212;Gent-Sint-Pieters;Hasselt
+IC;2213;Gent-Sint-Pieters;Tongeren
+IC;2214;Gent-Sint-Pieters;Tongeren
+IC;2215;Gent-Sint-Pieters;Tongeren
+IC;2216;Gent-Sint-Pieters;Tongeren
+IC;2217;Gent-Sint-Pieters;Tongeren
+IC;2218;Gent-Sint-Pieters;Tongeren
+IC;2219;Gent-Sint-Pieters;Tongeren
+IC;2220;Gent-Sint-Pieters;Hasselt
+IC;2221;Gent-Sint-Pieters;Hasselt
+IC;2227;Hasselt;Gent-Sint-Pieters
+IC;2228;Tongeren;Gent-Sint-Pieters
+IC;2229;Tongeren;Gent-Sint-Pieters
+IC;2230;Tongeren;Gent-Sint-Pieters
+IC;2231;Tongeren;Gent-Sint-Pieters
+IC;2232;Hasselt;Gent-Sint-Pieters
+IC;2233;Tongeren;Gent-Sint-Pieters
+IC;2234;Tongeren;Gent-Sint-Pieters
+IC;2235;Tongeren;Gent-Sint-Pieters
+IC;2236;Tongeren;Gent-Sint-Pieters
+IC;2237;Tongeren;Gent-Sint-Pieters
+IC;2238;Tongeren;Gent-Sint-Pieters
+IC;2239;Tongeren;Gent-Sint-Pieters
+IC;2240;Tongeren;Gent-Sint-Pieters
+IC;2241;Tongeren;Gent-Sint-Pieters
+IC;2242;Tongeren;Gent-Sint-Pieters
+IC;2243;Tongeren;Gent-Sint-Pieters
+IC;2244;Tongeren;Gent-Sint-Pieters
+S3;2254;Oudenaarde;Dendermonde
+S3;2255;Oudenaarde;Dendermonde
+S3;2256;Oudenaarde;Dendermonde
+S3;2257;Oudenaarde;Dendermonde
+S3;2258;Oudenaarde;Dendermonde
+S3;2259;Oudenaarde;Dendermonde
+S3;2260;Oudenaarde;Dendermonde
+S3;2261;Oudenaarde;Dendermonde
+S3;2262;Oudenaarde;Dendermonde
+S3;2263;Oudenaarde;Dendermonde
+S3;2264;Oudenaarde;Dendermonde
+S3;2265;Oudenaarde;Dendermonde
+S3;2266;Oudenaarde;Dendermonde
+S3;2267;Oudenaarde;Dendermonde
+S3;2268;Oudenaarde;Dendermonde
+S3;2269;Oudenaarde;Dendermonde
+S3;2270;Oudenaarde;Dendermonde
+S3;2277;Dendermonde;Oudenaarde
+S3;2278;Dendermonde;Oudenaarde
+S3;2279;Dendermonde;Oudenaarde
+S3;2280;Dendermonde;Oudenaarde
+S3;2281;Dendermonde;Oudenaarde
+S3;2282;Dendermonde;Oudenaarde
+S3;2283;Dendermonde;Oudenaarde
+S3;2284;Dendermonde;Oudenaarde
+S3;2285;Dendermonde;Oudenaarde
+S3;2286;Dendermonde;Oudenaarde
+S3;2287;Dendermonde;Oudenaarde
+S3;2288;Dendermonde;Oudenaarde
+S3;2289;Dendermonde;Oudenaarde
+S3;2290;Dendermonde;Oudenaarde
+S3;2291;Dendermonde;Oudenaarde
+S3;2292;Dendermonde;Oudenaarde
+S3;2293;Dendermonde;Oudenaarde
+S3;2294;Bruxelles-Nord/Brussel-Noord;Oudenaarde
+IC;2303;Kortrijk;Bruxelles-Nord/Brussel-Noord
+IC;2304;Kortrijk;Brussels Airport-Zaventem
+IC;2305;Oostende;Brussels Airport-Zaventem
+IC;2306;Kortrijk;Brussels Airport-Zaventem
+IC;2307;Oostende;Brussels Airport-Zaventem
+IC;2308;Oostende;Brussels Airport-Zaventem
+IC;2309;Oostende;Brussels Airport-Zaventem
+IC;2310;Oostende;Brussels Airport-Zaventem
+IC;2311;Oostende;Brussels Airport-Zaventem
+IC;2312;Oostende;Brussels Airport-Zaventem
+IC;2313;Oostende;Brussels Airport-Zaventem
+IC;2314;Oostende;Brussels Airport-Zaventem
+IC;2315;Oostende;Brussels Airport-Zaventem
+IC;2316;Oostende;Brussels Airport-Zaventem
+IC;2317;Oostende;Brussels Airport-Zaventem
+IC;2318;Oostende;Brussels Airport-Zaventem
+IC;2319;Oostende;Brussels Airport-Zaventem
+IC;2320;Oostende;Brussels Airport-Zaventem
+IC;2321;Oostende;Kortrijk
+IC;2326;Kortrijk;Oostende
+IC;2327;Kortrijk;Oostende
+IC;2328;Brussels Airport-Zaventem;Oostende
+IC;2329;Brussels Airport-Zaventem;Oostende
+IC;2330;Brussels Airport-Zaventem;Oostende
+IC;2331;Brussels Airport-Zaventem;Oostende
+IC;2332;Brussels Airport-Zaventem;Oostende
+IC;2333;Brussels Airport-Zaventem;Oostende
+IC;2334;Brussels Airport-Zaventem;Oostende
+IC;2335;Brussels Airport-Zaventem;Oostende
+IC;2336;Brussels Airport-Zaventem;Oostende
+IC;2337;Brussels Airport-Zaventem;Oostende
+IC;2338;Brussels Airport-Zaventem;Oostende
+IC;2339;Brussels Airport-Zaventem;Oostende
+IC;2340;Brussels Airport-Zaventem;Oostende
+IC;2341;Brussels Airport-Zaventem;Oostende
+IC;2342;Brussels Airport-Zaventem;Kortrijk
+IC;2343;Brussels Airport-Zaventem;Oostende
+IC;2344;Brussels Airport-Zaventem;Kortrijk
+IC;2345;Brussels Airport-Zaventem;Kortrijk
+P;2357;Hasselt;Genk
+P;2366;Hasselt;Genk
+P;2367;Hasselt;Genk
+P;2368;Hasselt;Genk
+P;2378;Genk;Hasselt
+P;2379;Genk;Hasselt
+P;2380;Genk;Hasselt
+P;2387;Genk;Hasselt
+P;2388;Genk;Hasselt
+P;2389;Genk;Hasselt
+IC;2405;Namur;Liège-Palais
+IC;2406;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2407;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2408;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2409;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2410;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2411;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2412;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2413;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2414;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2415;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2416;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2417;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2418;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2419;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2420;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2421;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2422;Bruxelles-Midi/Brussel-Zuid;Liège-Palais
+IC;2426;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2427;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2428;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2429;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2430;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2431;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2432;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2433;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2434;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2435;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2436;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2437;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2438;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2439;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2440;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2441;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2442;Liège-Palais;Bruxelles-Midi/Brussel-Zuid
+IC;2443;Liège-Palais;Namur
+L;2456;Leuven;Hasselt
+L;2457;Leuven;Hasselt
+L;2458;Leuven;Hasselt
+L;2459;Leuven;Hasselt
+L;2460;Leuven;Hasselt
+L;2461;Leuven;Hasselt
+L;2462;Leuven;Hasselt
+L;2463;Leuven;Hasselt
+L;2464;Leuven;Hasselt
+L;2465;Leuven;Hasselt
+L;2466;Leuven;Hasselt
+L;2467;Leuven;Hasselt
+L;2468;Leuven;Hasselt
+L;2469;Leuven;Hasselt
+L;2470;Leuven;Hasselt
+L;2471;Leuven;Hasselt
+L;2472;Leuven;Hasselt
+L;2473;Leuven;Hasselt
+L;2475;Hasselt;Leuven
+L;2476;Hasselt;Leuven
+L;2477;Hasselt;Leuven
+L;2478;Hasselt;Leuven
+L;2479;Hasselt;Leuven
+L;2480;Hasselt;Leuven
+L;2481;Hasselt;Leuven
+L;2482;Hasselt;Leuven
+L;2483;Hasselt;Leuven
+L;2484;Hasselt;Leuven
+L;2485;Hasselt;Leuven
+L;2486;Hasselt;Leuven
+L;2487;Hasselt;Leuven
+L;2488;Hasselt;Leuven
+L;2489;Hasselt;Leuven
+L;2490;Hasselt;Leuven
+L;2491;Hasselt;Leuven
+L;2492;Hasselt;Leuven
+L;2493;Hasselt;Leuven
+IC;2505;Namur;Dinant
+IC;2506;Brussels Airport-Zaventem;Dinant
+IC;2507;Brussels Airport-Zaventem;Dinant
+IC;2508;Brussels Airport-Zaventem;Dinant
+IC;2509;Brussels Airport-Zaventem;Dinant
+IC;2510;Brussels Airport-Zaventem;Dinant
+IC;2511;Brussels Airport-Zaventem;Dinant
+IC;2512;Brussels Airport-Zaventem;Dinant
+IC;2513;Brussels Airport-Zaventem;Dinant
+IC;2514;Brussels Airport-Zaventem;Dinant
+IC;2515;Brussels Airport-Zaventem;Dinant
+IC;2516;Brussels Airport-Zaventem;Dinant
+IC;2517;Brussels Airport-Zaventem;Dinant
+IC;2518;Brussels Airport-Zaventem;Dinant
+IC;2519;Brussels Airport-Zaventem;Dinant
+IC;2520;Brussels Airport-Zaventem;Dinant
+IC;2521;Brussels Airport-Zaventem;Dinant
+IC;2527;Dinant;Brussels Airport-Zaventem
+IC;2528;Dinant;Brussels Airport-Zaventem
+IC;2529;Dinant;Brussels Airport-Zaventem
+IC;2530;Dinant;Brussels Airport-Zaventem
+IC;2531;Dinant;Brussels Airport-Zaventem
+IC;2532;Dinant;Brussels Airport-Zaventem
+IC;2533;Dinant;Brussels Airport-Zaventem
+IC;2534;Dinant;Brussels Airport-Zaventem
+IC;2535;Dinant;Brussels Airport-Zaventem
+IC;2536;Dinant;Brussels Airport-Zaventem
+IC;2537;Dinant;Brussels Airport-Zaventem
+IC;2538;Dinant;Brussels Airport-Zaventem
+IC;2539;Dinant;Brussels Airport-Zaventem
+IC;2540;Dinant;Brussels Airport-Zaventem
+IC;2541;Dinant;Brussels Airport-Zaventem
+IC;2542;Dinant;Brussels Airport-Zaventem
+L;2555;Antwerpen-Centraal;Roosendaal
+L;2556;Puurs;Roosendaal
+L;2557;Puurs;Roosendaal
+L;2558;Puurs;Roosendaal
+L;2559;Puurs;Roosendaal
+L;2560;Puurs;Roosendaal
+L;2561;Puurs;Roosendaal
+L;2562;Puurs;Roosendaal
+L;2563;Puurs;Roosendaal
+L;2564;Puurs;Roosendaal
+L;2565;Puurs;Roosendaal
+L;2566;Puurs;Roosendaal
+L;2567;Puurs;Roosendaal
+L;2568;Puurs;Roosendaal
+L;2569;Puurs;Roosendaal
+L;2570;Puurs;Roosendaal
+L;2571;Puurs;Essen
+L;2572;Antwerpen-Centraal;Essen
+L;2573;Antwerpen-Centraal;Essen
+L;2576;Antwerpen-Centraal;Puurs
+L;2577;Essen;Puurs
+L;2578;Roosendaal;Puurs
+L;2579;Roosendaal;Puurs
+L;2580;Roosendaal;Puurs
+L;2581;Roosendaal;Puurs
+L;2582;Roosendaal;Puurs
+L;2583;Roosendaal;Puurs
+L;2584;Roosendaal;Puurs
+L;2585;Roosendaal;Puurs
+L;2586;Roosendaal;Puurs
+L;2587;Roosendaal;Puurs
+L;2588;Roosendaal;Puurs
+L;2589;Roosendaal;Puurs
+L;2590;Roosendaal;Puurs
+L;2591;Roosendaal;Antwerpen-Centraal
+L;2592;Roosendaal;Puurs
+L;2593;Roosendaal;Antwerpen-Centraal
+IC;2604;Antwerpen-Centraal;Hasselt
+IC;2605;Antwerpen-Centraal;Hasselt
+IC;2606;Antwerpen-Centraal;Hasselt
+IC;2607;Antwerpen-Centraal;Hasselt
+IC;2608;Antwerpen-Centraal;Hasselt
+IC;2609;Antwerpen-Centraal;Hasselt
+IC;2610;Antwerpen-Centraal;Hasselt
+IC;2611;Antwerpen-Centraal;Hasselt
+IC;2612;Antwerpen-Centraal;Hasselt
+IC;2613;Antwerpen-Centraal;Hasselt
+IC;2614;Antwerpen-Centraal;Hasselt
+IC;2615;Antwerpen-Centraal;Tongeren
+IC;2616;Antwerpen-Centraal;Tongeren
+IC;2617;Antwerpen-Centraal;Hasselt
+IC;2618;Antwerpen-Centraal;Hasselt
+IC;2619;Antwerpen-Centraal;Hasselt
+IC;2620;Antwerpen-Centraal;Hasselt
+IC;2621;Antwerpen-Centraal;Hasselt
+IC;2622;Antwerpen-Centraal;Hasselt
+IC;2623;Brussels Airport-Zaventem;Leuven
+IC;2626;Hasselt;Antwerpen-Centraal
+IC;2627;Hasselt;Antwerpen-Centraal
+IC;2628;Tongeren;Antwerpen-Centraal
+IC;2629;Tongeren;Antwerpen-Centraal
+IC;2630;Hasselt;Antwerpen-Centraal
+IC;2631;Hasselt;Antwerpen-Centraal
+IC;2632;Hasselt;Antwerpen-Centraal
+IC;2633;Hasselt;Antwerpen-Centraal
+IC;2634;Hasselt;Antwerpen-Centraal
+IC;2635;Hasselt;Antwerpen-Centraal
+IC;2636;Hasselt;Antwerpen-Centraal
+IC;2637;Hasselt;Antwerpen-Centraal
+IC;2638;Hasselt;Antwerpen-Centraal
+IC;2639;Hasselt;Antwerpen-Centraal
+IC;2640;Hasselt;Antwerpen-Centraal
+IC;2641;Hasselt;Antwerpen-Centraal
+IC;2642;Hasselt;Antwerpen-Centraal
+IC;2643;Hasselt;Antwerpen-Centraal
+IC;2644;Hasselt;Antwerpen-Centraal
+IC;2645;Brussels Airport-Zaventem;Mechelen
+L;2656;Antwerpen-Centraal;Dendermonde
+L;2657;Antwerpen-Centraal;Dendermonde
+L;2658;Antwerpen-Centraal;Lokeren
+L;2659;Antwerpen-Centraal;Lokeren
+L;2660;Antwerpen-Centraal;Lokeren
+L;2661;Antwerpen-Centraal;Dendermonde
+L;2662;Antwerpen-Centraal;Lokeren
+L;2663;Antwerpen-Centraal;Lokeren
+L;2664;Antwerpen-Centraal;Lokeren
+L;2665;Antwerpen-Centraal;Dendermonde
+L;2666;Antwerpen-Centraal;Dendermonde
+L;2667;Antwerpen-Centraal;Dendermonde
+L;2668;Antwerpen-Centraal;Dendermonde
+L;2669;Antwerpen-Centraal;Lokeren
+L;2670;Antwerpen-Centraal;Lokeren
+L;2671;Antwerpen-Centraal;Lokeren
+L;2672;Antwerpen-Centraal;Lokeren
+L;2673;Antwerpen-Centraal;Sint-Niklaas
+L;2675;Lokeren;Antwerpen-Centraal
+L;2676;Lokeren;Antwerpen-Centraal
+L;2677;Dendermonde;Antwerpen-Centraal
+L;2678;Dendermonde;Antwerpen-Centraal
+L;2679;Dendermonde;Antwerpen-Centraal
+L;2680;Lokeren;Antwerpen-Centraal
+L;2681;Lokeren;Antwerpen-Centraal
+L;2682;Lokeren;Antwerpen-Centraal
+L;2683;Dendermonde;Antwerpen-Centraal
+L;2684;Lokeren;Antwerpen-Centraal
+L;2685;Lokeren;Antwerpen-Centraal
+L;2686;Lokeren;Antwerpen-Centraal
+L;2687;Dendermonde;Antwerpen-Centraal
+L;2688;Dendermonde;Antwerpen-Centraal
+L;2689;Dendermonde;Antwerpen-Centraal
+L;2690;Lokeren;Antwerpen-Centraal
+L;2691;Lokeren;Antwerpen-Centraal
+L;2692;Lokeren;Antwerpen-Centraal
+L;2755;Leuven;Sint-Niklaas
+L;2756;Leuven;Sint-Niklaas
+L;2757;Leuven;Sint-Niklaas
+L;2758;Leuven;Sint-Niklaas
+L;2759;Leuven;Sint-Niklaas
+L;2760;Leuven;Sint-Niklaas
+L;2761;Leuven;Sint-Niklaas
+L;2762;Leuven;Sint-Niklaas
+L;2763;Leuven;Sint-Niklaas
+L;2764;Leuven;Sint-Niklaas
+L;2765;Leuven;Sint-Niklaas
+L;2766;Leuven;Sint-Niklaas
+L;2767;Leuven;Sint-Niklaas
+L;2768;Leuven;Sint-Niklaas
+L;2769;Leuven;Sint-Niklaas
+L;2770;Leuven;Sint-Niklaas
+L;2771;Leuven;Sint-Niklaas
+L;2772;Leuven;Sint-Niklaas
+L;2776;Sint-Niklaas;Leuven
+L;2777;Sint-Niklaas;Leuven
+L;2778;Sint-Niklaas;Leuven
+L;2779;Sint-Niklaas;Leuven
+L;2780;Sint-Niklaas;Leuven
+L;2781;Sint-Niklaas;Leuven
+L;2782;Sint-Niklaas;Leuven
+L;2783;Sint-Niklaas;Leuven
+L;2784;Sint-Niklaas;Leuven
+L;2785;Sint-Niklaas;Leuven
+L;2786;Sint-Niklaas;Leuven
+L;2787;Sint-Niklaas;Leuven
+L;2788;Sint-Niklaas;Leuven
+L;2789;Sint-Niklaas;Leuven
+L;2790;Sint-Niklaas;Leuven
+L;2791;Sint-Niklaas;Leuven
+L;2792;Sint-Niklaas;Leuven
+IC;2803;Bruxelles-Midi/Brussel-Zuid;Brussels Airport-Zaventem
+IC;2804;Brugge;Brussels Airport-Zaventem
+IC;2805;Brugge;Brussels Airport-Zaventem
+IC;2806;Brugge;Brussels Airport-Zaventem
+IC;2807;Blankenberge;Brussels Airport-Zaventem
+IC;2808;Brugge;Brussels Airport-Zaventem
+IC;2809;Brugge;Brussels Airport-Zaventem
+IC;2810;Brugge;Brussels Airport-Zaventem
+IC;2811;Brugge;Brussels Airport-Zaventem
+IC;2812;Brugge;Brussels Airport-Zaventem
+IC;2813;Brugge;Brussels Airport-Zaventem
+IC;2814;Brugge;Brussels Airport-Zaventem
+IC;2815;Brugge;Brussels Airport-Zaventem
+IC;2816;Brugge;Brussels Airport-Zaventem
+IC;2817;Blankenberge;Brussels Airport-Zaventem
+IC;2818;Oostende;Brussels Airport-Zaventem
+IC;2819;Oostende;Brussels Airport-Zaventem
+IC;2820;Brugge;Brussels Airport-Zaventem
+IC;2829;Brussels Airport-Zaventem;Oostende
+IC;2830;Brussels Airport-Zaventem;Oostende
+IC;2831;Brussels Airport-Zaventem;Oostende
+IC;2832;Brussels Airport-Zaventem;Brugge
+IC;2833;Brussels Airport-Zaventem;Brugge
+IC;2834;Brussels Airport-Zaventem;Brugge
+IC;2835;Brussels Airport-Zaventem;Brugge
+IC;2836;Brussels Airport-Zaventem;Blankenberge
+IC;2837;Brussels Airport-Zaventem;Brugge
+IC;2838;Brussels Airport-Zaventem;Brugge
+IC;2839;Brussels Airport-Zaventem;Brugge
+IC;2840;Brussels Airport-Zaventem;Brugge
+IC;2841;Brussels Airport-Zaventem;Brugge
+IC;2842;Brussels Airport-Zaventem;Brugge
+IC;2843;Brussels Airport-Zaventem;Brugge
+IC;2844;Brussels Airport-Zaventem;Brugge
+IC;2845;Brussels Airport-Zaventem;Bruxelles-Midi/Brussel-Zuid
+L;2854;Antwerpen-Centraal;Leuven
+L;2855;Antwerpen-Centraal;Leuven
+L;2856;Antwerpen-Centraal;Leuven
+L;2857;Antwerpen-Centraal;Leuven
+L;2858;Antwerpen-Centraal;Leuven
+L;2859;Antwerpen-Centraal;Leuven
+L;2860;Antwerpen-Centraal;Leuven
+L;2861;Antwerpen-Centraal;Leuven
+L;2862;Antwerpen-Centraal;Leuven
+L;2863;Antwerpen-Centraal;Leuven
+L;2864;Antwerpen-Centraal;Leuven
+L;2865;Antwerpen-Centraal;Leuven
+L;2866;Antwerpen-Centraal;Leuven
+L;2867;Antwerpen-Centraal;Leuven
+L;2868;Antwerpen-Centraal;Leuven
+L;2869;Antwerpen-Centraal;Leuven
+L;2870;Antwerpen-Centraal;Leuven
+L;2871;Antwerpen-Centraal;Leuven
+L;2872;Antwerpen-Centraal;Leuven
+L;2876;Leuven;Antwerpen-Centraal
+L;2877;Leuven;Antwerpen-Centraal
+L;2878;Leuven;Antwerpen-Centraal
+L;2879;Leuven;Antwerpen-Centraal
+L;2880;Leuven;Antwerpen-Centraal
+L;2881;Leuven;Antwerpen-Centraal
+L;2882;Leuven;Antwerpen-Centraal
+L;2883;Leuven;Antwerpen-Centraal
+L;2884;Leuven;Antwerpen-Centraal
+L;2885;Leuven;Antwerpen-Centraal
+L;2886;Leuven;Antwerpen-Centraal
+L;2887;Leuven;Antwerpen-Centraal
+L;2888;Leuven;Antwerpen-Centraal
+L;2889;Leuven;Antwerpen-Centraal
+L;2890;Leuven;Antwerpen-Centraal
+L;2891;Leuven;Antwerpen-Centraal
+L;2892;Leuven;Antwerpen-Centraal
+L;2893;Leuven;Antwerpen-Centraal
+L;2894;Leuven;Antwerpen-Centraal
+IC;2906;Antwerpen-Centraal;Leuven
+IC;2907;Antwerpen-Centraal;Leuven
+IC;2908;Antwerpen-Centraal;Leuven
+IC;2909;Antwerpen-Centraal;Leuven
+IC;2910;Antwerpen-Centraal;Leuven
+IC;2911;Antwerpen-Centraal;Leuven
+IC;2912;Antwerpen-Centraal;Leuven
+IC;2913;Antwerpen-Centraal;Leuven
+IC;2914;Antwerpen-Centraal;Leuven
+IC;2915;Antwerpen-Centraal;Leuven
+IC;2916;Antwerpen-Centraal;Leuven
+IC;2917;Antwerpen-Centraal;Leuven
+IC;2918;Antwerpen-Centraal;Leuven
+IC;2919;Antwerpen-Centraal;Leuven
+IC;2920;Antwerpen-Centraal;Leuven
+IC;2921;Antwerpen-Centraal;Leuven
+IC;2922;Antwerpen-Centraal;Leuven
+IC;2927;Leuven;Antwerpen-Centraal
+IC;2928;Leuven;Antwerpen-Centraal
+IC;2929;Leuven;Antwerpen-Centraal
+IC;2930;Leuven;Antwerpen-Centraal
+IC;2931;Leuven;Antwerpen-Centraal
+IC;2932;Leuven;Antwerpen-Centraal
+IC;2933;Leuven;Antwerpen-Centraal
+IC;2934;Leuven;Antwerpen-Centraal
+IC;2935;Leuven;Antwerpen-Centraal
+IC;2936;Leuven;Antwerpen-Centraal
+IC;2937;Leuven;Antwerpen-Centraal
+IC;2938;Leuven;Antwerpen-Centraal
+IC;2939;Leuven;Antwerpen-Centraal
+IC;2940;Leuven;Antwerpen-Centraal
+IC;2941;Leuven;Antwerpen-Centraal
+L;2956;Antwerpen-Centraal;Mol
+L;2957;Antwerpen-Centraal;Mol
+L;2958;Antwerpen-Centraal;Mol
+L;2959;Antwerpen-Centraal;Mol
+L;2960;Antwerpen-Centraal;Mol
+L;2961;Antwerpen-Centraal;Mol
+L;2962;Antwerpen-Centraal;Mol
+L;2963;Antwerpen-Centraal;Mol
+L;2964;Antwerpen-Centraal;Mol
+L;2965;Antwerpen-Centraal;Mol
+L;2966;Antwerpen-Centraal;Mol
+L;2967;Antwerpen-Centraal;Mol
+L;2968;Antwerpen-Centraal;Mol
+L;2969;Antwerpen-Centraal;Mol
+L;2970;Antwerpen-Centraal;Mol
+L;2971;Antwerpen-Centraal;Mol
+L;2976;Mol;Antwerpen-Centraal
+L;2977;Mol;Antwerpen-Centraal
+L;2978;Mol;Antwerpen-Centraal
+L;2979;Mol;Antwerpen-Centraal
+L;2980;Mol;Antwerpen-Centraal
+L;2981;Mol;Antwerpen-Centraal
+L;2982;Mol;Antwerpen-Centraal
+L;2983;Mol;Antwerpen-Centraal
+L;2984;Mol;Antwerpen-Centraal
+L;2985;Mol;Antwerpen-Centraal
+L;2986;Mol;Antwerpen-Centraal
+L;2987;Mol;Antwerpen-Centraal
+L;2988;Mol;Antwerpen-Centraal
+L;2989;Mol;Antwerpen-Centraal
+L;2990;Mol;Antwerpen-Centraal
+L;2991;Mol;Antwerpen-Centraal
+IC;3006;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3007;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3008;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3009;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3010;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3011;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3012;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3013;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3014;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3015;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3016;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3017;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3018;Antwerpen-Centraal;Gent-Sint-Pieters
+IC;3028;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3029;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3030;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3031;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3032;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3033;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3034;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3035;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3036;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3037;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3038;Gent-Sint-Pieters;Antwerpen-Centraal
+IC;3039;Gent-Sint-Pieters;Antwerpen-Centraal
+S20;3055;Ottignies;Leuven
+S20;3056;Ottignies;Leuven
+S20;3057;Ottignies;Leuven
+S20;3058;Ottignies;Leuven
+S20;3059;Ottignies;Leuven
+S20;3060;Ottignies;Leuven
+S20;3061;Ottignies;Leuven
+S20;3062;Ottignies;Leuven
+S20;3063;Ottignies;Leuven
+S20;3064;Ottignies;Leuven
+S20;3065;Ottignies;Leuven
+S20;3066;Ottignies;Leuven
+S20;3067;Ottignies;Leuven
+S20;3068;Ottignies;Leuven
+S20;3069;Ottignies;Leuven
+S20;3076;Leuven;Ottignies
+S20;3077;Leuven;Ottignies
+S20;3078;Leuven;Ottignies
+S20;3079;Leuven;Ottignies
+S20;3080;Leuven;Ottignies
+S20;3081;Leuven;Ottignies
+S20;3082;Leuven;Ottignies
+S20;3083;Leuven;Ottignies
+S20;3084;Leuven;Ottignies
+S20;3085;Leuven;Ottignies
+S20;3086;Leuven;Ottignies
+S20;3087;Leuven;Ottignies
+S20;3088;Leuven;Ottignies
+S20;3089;Leuven;Ottignies
+IC;3105;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3106;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3107;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3108;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3109;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3110;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3111;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3112;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3113;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3114;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3115;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3116;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3117;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3118;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3119;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3127;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3128;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3129;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3130;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3131;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3132;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3133;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3134;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3135;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3136;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3137;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3138;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3139;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3140;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3141;Antwerpen-Centraal;Bruxelles-Midi/Brussel-Zuid
+IC;3204;Tournai;Sint-Niklaas
+IC;3205;Mouscron;Sint-Niklaas
+IC;3206;Kortrijk;Sint-Niklaas
+IC;3207;Kortrijk;Sint-Niklaas
+IC;3208;Kortrijk;Sint-Niklaas
+IC;3209;Kortrijk;Sint-Niklaas
+IC;3210;Kortrijk;Sint-Niklaas
+IC;3211;Kortrijk;Sint-Niklaas
+IC;3212;Kortrijk;Sint-Niklaas
+IC;3213;Kortrijk;Sint-Niklaas
+IC;3214;Kortrijk;Sint-Niklaas
+IC;3215;Kortrijk;Sint-Niklaas
+IC;3216;Kortrijk;Sint-Niklaas
+IC;3217;Kortrijk;Sint-Niklaas
+IC;3218;Kortrijk;Sint-Niklaas
+IC;3219;Kortrijk;Sint-Niklaas
+IC;3220;Kortrijk;Sint-Niklaas
+IC;3221;Kortrijk;Dendermonde
+IC;3226;Tournai;Mouscron
+IC;3227;Ath;Kortrijk
+IC;3228;Sint-Niklaas;Kortrijk
+IC;3229;Sint-Niklaas;Kortrijk
+IC;3230;Sint-Niklaas;Kortrijk
+IC;3231;Sint-Niklaas;Kortrijk
+IC;3232;Sint-Niklaas;Kortrijk
+IC;3233;Sint-Niklaas;Kortrijk
+IC;3234;Sint-Niklaas;Kortrijk
+IC;3235;Sint-Niklaas;Kortrijk
+IC;3236;Sint-Niklaas;Kortrijk
+IC;3237;Sint-Niklaas;Kortrijk
+IC;3238;Sint-Niklaas;Kortrijk
+IC;3239;Sint-Niklaas;Kortrijk
+IC;3240;Sint-Niklaas;Kortrijk
+IC;3241;Sint-Niklaas;Kortrijk
+IC;3242;Sint-Niklaas;Kortrijk
+IC;3243;Sint-Niklaas;Ath
+IC;3244;Sint-Niklaas;Tournai
+IC;3245;Sint-Niklaas;Ath
+S9;3255;Braine-l'Alleud;Leuven
+S9;3256;Braine-l'Alleud;Leuven
+S9;3257;Braine-l'Alleud;Leuven
+S9;3258;Braine-l'Alleud;Leuven
+S9;3259;Braine-l'Alleud;Leuven
+S9;3260;Braine-l'Alleud;Leuven
+S9;3261;Braine-l'Alleud;Landen
+S9;3262;Braine-l'Alleud;Leuven
+S9;3263;Braine-l'Alleud;Leuven
+S9;3264;Braine-l'Alleud;Leuven
+S9;3265;Braine-l'Alleud;Landen
+S9;3266;Braine-l'Alleud;Landen
+S9;3267;Braine-l'Alleud;Leuven
+S9;3268;Braine-l'Alleud;Landen
+S9;3269;Braine-l'Alleud;Leuven
+S9;3270;Braine-l'Alleud;Leuven
+S9;3277;Leuven;Braine-l'Alleud
+S9;3278;Landen;Braine-l'Alleud
+S9;3279;Landen;Braine-l'Alleud
+S9;3280;Leuven;Braine-l'Alleud
+S9;3281;Leuven;Braine-l'Alleud
+S9;3282;Leuven;Braine-l'Alleud
+S9;3283;Leuven;Braine-l'Alleud
+S9;3284;Leuven;Braine-l'Alleud
+S9;3285;Leuven;Braine-l'Alleud
+S9;3286;Leuven;Braine-l'Alleud
+S9;3287;Leuven;Braine-l'Alleud
+S9;3288;Leuven;Braine-l'Alleud
+S9;3289;Leuven;Braine-l'Alleud
+S9;3290;Leuven;Braine-l'Alleud
+S9;3291;Leuven;Braine-l'Alleud
+S9;3292;Leuven;Braine-l'Alleud
+IC;3305;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3306;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3307;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3308;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3309;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3310;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3311;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3312;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3313;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3314;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3315;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3316;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3317;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3318;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3319;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3320;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3321;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3322;Bruxelles-Midi/Brussel-Zuid;Essen
+IC;3323;Bruxelles-Midi/Brussel-Zuid;Antwerpen-Centraal
+IC;3326;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3327;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3328;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3329;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3330;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3331;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3332;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3333;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3334;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3335;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3336;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3337;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3338;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3339;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3340;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3341;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3342;Essen;Bruxelles-Midi/Brussel-Zuid
+IC;3343;Essen;Bruxelles-Midi/Brussel-Zuid
+S5;3356;Geraardsbergen;Mechelen
+S5;3357;Geraardsbergen;Mechelen
+S5;3358;Geraardsbergen;Mechelen
+S5;3359;Enghien/Edingen;Mechelen
+S5;3360;Enghien/Edingen;Mechelen
+S5;3361;Enghien/Edingen;Mechelen
+S5;3362;Enghien/Edingen;Mechelen
+S5;3363;Enghien/Edingen;Mechelen
+S5;3364;Enghien/Edingen;Mechelen
+S5;3365;Enghien/Edingen;Mechelen
+S5;3366;Enghien/Edingen;Mechelen
+S5;3367;Enghien/Edingen;Mechelen
+S5;3368;Enghien/Edingen;Mechelen
+S5;3369;Enghien/Edingen;Mechelen
+S5;3370;Enghien/Edingen;Mechelen
+S5;3377;Mechelen;Geraardsbergen
+S5;3378;Mechelen;Enghien/Edingen
+S5;3379;Mechelen;Enghien/Edingen
+S5;3380;Mechelen;Enghien/Edingen
+S5;3381;Mechelen;Enghien/Edingen
+S5;3382;Mechelen;Enghien/Edingen
+S5;3383;Mechelen;Enghien/Edingen
+S5;3384;Mechelen;Enghien/Edingen
+S5;3385;Mechelen;Enghien/Edingen
+S5;3386;Mechelen;Geraardsbergen
+S5;3387;Mechelen;Geraardsbergen
+S5;3388;Mechelen;Geraardsbergen
+S5;3389;Mechelen;Enghien/Edingen
+S5;3390;Mechelen;Enghien/Edingen
+S5;3391;Mechelen;Enghien/Edingen
+IC;3405;Binche;Turnhout
+IC;3406;Binche;Turnhout
+IC;3407;Binche;Turnhout
+IC;3408;Binche;Turnhout
+IC;3409;Binche;Turnhout
+IC;3410;Binche;Turnhout
+IC;3411;Binche;Turnhout
+IC;3412;Binche;Turnhout
+IC;3413;Binche;Turnhout
+IC;3414;Binche;Turnhout
+IC;3415;Binche;Turnhout
+IC;3416;Binche;Turnhout
+IC;3417;Binche;Turnhout
+IC;3418;Binche;Turnhout
+IC;3419;Binche;Turnhout
+IC;3420;Binche;Turnhout
+IC;3421;Binche;Turnhout
+IC;3427;Turnhout;Binche
+IC;3428;Turnhout;Binche
+IC;3429;Turnhout;Binche
+IC;3430;Turnhout;Binche
+IC;3431;Turnhout;Binche
+IC;3432;Turnhout;Binche
+IC;3433;Turnhout;Binche
+IC;3434;Turnhout;Binche
+IC;3435;Turnhout;Binche
+IC;3436;Turnhout;Binche
+IC;3437;Turnhout;Binche
+IC;3438;Turnhout;Binche
+IC;3439;Turnhout;Binche
+IC;3440;Turnhout;Binche
+IC;3441;Turnhout;Binche
+IC;3442;Turnhout;La Louvière-Sud
+IC;3443;Turnhout;La Louvière-Sud
+S7;3456;Halle;Mechelen
+S7;3457;Halle;Mechelen
+S7;3458;Halle;Mechelen
+S7;3459;Halle;Mechelen
+S7;3460;Halle;Mechelen
+S7;3461;Halle;Mechelen
+S7;3462;Halle;Mechelen
+S7;3463;Halle;Mechelen
+S7;3464;Halle;Mechelen
+S7;3465;Halle;Mechelen
+S7;3466;Halle;Mechelen
+S7;3467;Halle;Mechelen
+S7;3468;Halle;Mechelen
+S7;3469;Halle;Mechelen
+S7;3477;Mechelen;Halle
+S7;3478;Mechelen;Halle
+S7;3479;Mechelen;Halle
+S7;3480;Mechelen;Halle
+S7;3481;Mechelen;Halle
+S7;3482;Mechelen;Halle
+S7;3483;Mechelen;Halle
+S7;3484;Mechelen;Halle
+S7;3485;Mechelen;Halle
+S7;3486;Mechelen;Halle
+S7;3487;Mechelen;Halle
+S7;3488;Mechelen;Halle
+S7;3489;Mechelen;Halle
+S5;3555;Halle;Mechelen
+S5;3556;Halle;Mechelen
+S5;3557;Halle;Mechelen
+S5;3558;Halle;Mechelen
+S5;3559;Halle;Mechelen
+S5;3560;Halle;Mechelen
+S5;3561;Halle;Mechelen
+S5;3562;Halle;Mechelen
+S5;3563;Halle;Mechelen
+S5;3564;Halle;Mechelen
+S5;3565;Halle;Mechelen
+S5;3566;Halle;Mechelen
+S5;3567;Halle;Mechelen
+S5;3568;Halle;Mechelen
+S5;3569;Halle;Bruxelles-Luxembourg/Brussel-Luxemburg
+S5;3577;Mechelen;Halle
+S5;3578;Mechelen;Halle
+S5;3579;Mechelen;Halle
+S5;3580;Mechelen;Halle
+S5;3581;Mechelen;Halle
+S5;3582;Mechelen;Halle
+S5;3583;Mechelen;Halle
+S5;3584;Mechelen;Halle
+S5;3585;Mechelen;Halle
+S5;3586;Mechelen;Halle
+S5;3587;Mechelen;Halle
+S5;3588;Mechelen;Halle
+S5;3589;Mechelen;Halle
+S5;3590;Mechelen;Halle
+IC;3602;Bruxelles-Midi/Brussel-Zuid;Landen
+IC;3603;Gent-Sint-Pieters;Landen
+IC;3604;De Panne;Landen
+IC;3605;De Panne;Landen
+IC;3606;De Panne;Landen
+IC;3607;De Panne;Landen
+IC;3608;De Panne;Landen
+IC;3609;De Panne;Landen
+IC;3610;De Panne;Landen
+IC;3611;De Panne;Landen
+IC;3612;De Panne;Landen
+IC;3613;De Panne;Landen
+IC;3614;De Panne;Landen
+IC;3615;De Panne;Landen
+IC;3616;De Panne;Landen
+IC;3617;De Panne;Landen
+IC;3618;De Panne;Landen
+IC;3619;De Panne;Landen
+IC;3620;De Panne;Landen
+IC;3627;Gent-Sint-Pieters;De Panne
+IC;3628;Landen;De Panne
+IC;3629;Landen;De Panne
+IC;3630;Landen;De Panne
+IC;3631;Landen;De Panne
+IC;3632;Landen;De Panne
+IC;3633;Landen;De Panne
+IC;3634;Landen;De Panne
+IC;3635;Landen;De Panne
+IC;3636;Landen;De Panne
+IC;3637;Landen;De Panne
+IC;3638;Landen;De Panne
+IC;3639;Landen;De Panne
+IC;3640;Landen;De Panne
+IC;3641;Landen;De Panne
+IC;3642;Landen;De Panne
+IC;3643;Landen;De Panne
+IC;3644;Landen;Gent-Sint-Pieters
+IC;3645;Landen;Gent-Sint-Pieters
+IC;3646;Landen;Bruxelles-Midi/Brussel-Zuid
+S2;3655;Braine-le-Comte;Leuven
+S2;3656;Braine-le-Comte;Leuven
+S2;3657;Braine-le-Comte;Leuven
+S2;3658;Braine-le-Comte;Leuven
+S2;3659;Braine-le-Comte;Leuven
+S2;3660;Braine-le-Comte;Leuven
+S2;3661;Braine-le-Comte;Leuven
+S2;3662;Braine-le-Comte;Leuven
+S2;3663;Braine-le-Comte;Leuven
+S2;3664;Braine-le-Comte;Leuven
+S2;3665;Braine-le-Comte;Leuven
+S2;3666;Braine-le-Comte;Leuven
+S2;3667;Braine-le-Comte;Leuven
+S2;3668;Braine-le-Comte;Leuven
+S2;3669;Braine-le-Comte;Leuven
+S2;3670;Braine-le-Comte;Leuven
+S2;3671;Braine-le-Comte;Leuven
+S2;3676;Leuven;Braine-le-Comte
+S2;3677;Leuven;Braine-le-Comte
+S2;3678;Leuven;Braine-le-Comte
+S2;3679;Leuven;Braine-le-Comte
+S2;3680;Leuven;Braine-le-Comte
+S2;3681;Leuven;Braine-le-Comte
+S2;3682;Leuven;Braine-le-Comte
+S2;3683;Leuven;Braine-le-Comte
+S2;3684;Leuven;Braine-le-Comte
+S2;3685;Leuven;Braine-le-Comte
+S2;3686;Leuven;Braine-le-Comte
+S2;3687;Leuven;Braine-le-Comte
+S2;3688;Leuven;Braine-le-Comte
+S2;3689;Leuven;Braine-le-Comte
+S2;3690;Leuven;Braine-le-Comte
+S2;3691;Leuven;Braine-le-Comte
+S2;3692;Leuven;Braine-le-Comte
+S2;3693;Leuven;Braine-le-Comte
+IC;3703;Bruxelles-Midi/Brussel-Zuid;Brussels Airport-Zaventem
+IC;3704;Mons;Brussels Airport-Zaventem
+IC;3705;Mons;Brussels Airport-Zaventem
+IC;3706;Quévy;Brussels Airport-Zaventem
+IC;3707;Mons;Brussels Airport-Zaventem
+IC;3708;Mons;Brussels Airport-Zaventem
+IC;3709;Mons;Brussels Airport-Zaventem
+IC;3710;Mons;Brussels Airport-Zaventem
+IC;3711;Mons;Brussels Airport-Zaventem
+IC;3712;Mons;Brussels Airport-Zaventem
+IC;3713;Mons;Brussels Airport-Zaventem
+IC;3714;Mons;Brussels Airport-Zaventem
+IC;3715;Mons;Brussels Airport-Zaventem
+IC;3716;Mons;Brussels Airport-Zaventem
+IC;3717;Mons;Brussels Airport-Zaventem
+IC;3718;Mons;Brussels Airport-Zaventem
+IC;3719;Mons;Brussels Airport-Zaventem
+IC;3720;Mons;Brussels Airport-Zaventem
+IC;3721;Mons;Brussels Airport-Zaventem
+IC;3722;Mons;Brussels Airport-Zaventem
+IC;3726;Brussels Airport-Zaventem;Mons
+IC;3727;Brussels Airport-Zaventem;Mons
+IC;3728;Brussels Airport-Zaventem;Mons
+IC;3729;Brussels Airport-Zaventem;Mons
+IC;3730;Brussels Airport-Zaventem;Mons
+IC;3731;Brussels Airport-Zaventem;Mons
+IC;3732;Brussels Airport-Zaventem;Mons
+IC;3733;Brussels Airport-Zaventem;Mons
+IC;3734;Brussels Airport-Zaventem;Mons
+IC;3735;Brussels Airport-Zaventem;Mons
+IC;3736;Brussels Airport-Zaventem;Mons
+IC;3737;Brussels Airport-Zaventem;Mons
+IC;3738;Brussels Airport-Zaventem;Mons
+IC;3739;Brussels Airport-Zaventem;Mons
+IC;3740;Brussels Airport-Zaventem;Mons
+IC;3741;Brussels Airport-Zaventem;Mons
+IC;3742;Brussels Airport-Zaventem;Mons
+IC;3743;Brussels Airport-Zaventem;Mons
+IC;3744;Brussels Airport-Zaventem;Mons
+IC;3745;Brussels Airport-Zaventem;Bruxelles-Midi/Brussel-Zuid
+S2;3755;Braine-le-Comte;Leuven
+S2;3756;Braine-le-Comte;Leuven
+S2;3757;Braine-le-Comte;Leuven
+S2;3758;Braine-le-Comte;Leuven
+S2;3759;Braine-le-Comte;Leuven
+S2;3760;Braine-le-Comte;Leuven
+S2;3761;Braine-le-Comte;Leuven
+S2;3762;Braine-le-Comte;Leuven
+S2;3763;Braine-le-Comte;Leuven
+S2;3764;Braine-le-Comte;Leuven
+S2;3765;Braine-le-Comte;Leuven
+S2;3766;Braine-le-Comte;Leuven
+S2;3767;Braine-le-Comte;Leuven
+S2;3768;Braine-le-Comte;Leuven
+S2;3777;Leuven;Braine-le-Comte
+S2;3778;Leuven;Braine-le-Comte
+S2;3779;Leuven;Braine-le-Comte
+S2;3780;Leuven;Braine-le-Comte
+S2;3781;Leuven;Braine-le-Comte
+S2;3782;Leuven;Braine-le-Comte
+S2;3783;Leuven;Braine-le-Comte
+S2;3784;Leuven;Braine-le-Comte
+S2;3785;Leuven;Braine-le-Comte
+S2;3786;Leuven;Braine-le-Comte
+S2;3787;Leuven;Braine-le-Comte
+S2;3788;Leuven;Braine-le-Comte
+S2;3789;Leuven;Braine-le-Comte
+IC;3804;Mons;Liège-Palais
+IC;3805;Mons;Liège-Palais
+IC;3806;Mons;Liège-Palais
+IC;3807;Mons;Liège-Palais
+IC;3808;Mons;Liège-Palais
+IC;3809;Mons;Liège-Palais
+IC;3810;Mons;Liège-Palais
+IC;3811;Mons;Liège-Palais
+IC;3812;Mons;Liège-Palais
+IC;3813;Mons;Liège-Palais
+IC;3814;Mons;Liège-Palais
+IC;3815;Mons;Liège-Palais
+IC;3816;Mons;Liège-Palais
+IC;3817;Mons;Liège-Palais
+IC;3818;Mons;Liège-Palais
+IC;3819;Mons;Liège-Palais
+IC;3820;Mons;Liège-Palais
+IC;3821;Mons;Namur
+IC;3822;Mons;Charleroi-Sud
+IC;3825;Charleroi-Sud;Mons
+IC;3826;Namur;Mons
+IC;3827;Liège-Palais;Mons
+IC;3828;Liège-Palais;Mons
+IC;3829;Liège-Palais;Mons
+IC;3830;Liège-Palais;Mons
+IC;3831;Liège-Palais;Mons
+IC;3832;Liège-Palais;Mons
+IC;3833;Liège-Palais;Mons
+IC;3834;Liège-Palais;Mons
+IC;3835;Liège-Palais;Mons
+IC;3836;Liège-Palais;Mons
+IC;3837;Liège-Palais;Mons
+IC;3838;Liège-Palais;Mons
+IC;3839;Liège-Palais;Mons
+IC;3840;Liège-Palais;Mons
+IC;3841;Liège-Palais;Mons
+IC;3842;Liège-Palais;Mons
+IC;3843;Liège-Palais;Mons
+IC;3844;Liège-Palais;Charleroi-Sud
+S10;3855;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3856;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3857;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3858;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3859;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3860;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3861;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3862;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3863;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3864;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3865;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3866;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3867;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3868;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+S10;3876;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3877;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3878;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3879;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3880;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3881;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3882;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3883;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3884;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3885;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3886;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3887;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S10;3888;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+IC;3907;Charleroi-Sud;Couvin
+IC;3908;Charleroi-Sud;Couvin
+IC;3909;Charleroi-Sud;Couvin
+IC;3910;Charleroi-Sud;Couvin
+IC;3911;Charleroi-Sud;Couvin
+IC;3912;Charleroi-Sud;Couvin
+IC;3913;Charleroi-Sud;Couvin
+IC;3914;Charleroi-Sud;Couvin
+IC;3915;Charleroi-Sud;Couvin
+IC;3916;Charleroi-Sud;Couvin
+IC;3917;Charleroi-Sud;Couvin
+IC;3918;Charleroi-Sud;Couvin
+IC;3919;Charleroi-Sud;Couvin
+IC;3920;Charleroi-Sud;Couvin
+IC;3921;Charleroi-Sud;Couvin
+IC;3926;Couvin;Charleroi-Sud
+IC;3928;Couvin;Charleroi-Sud
+IC;3929;Couvin;Charleroi-Sud
+IC;3930;Couvin;Charleroi-Sud
+IC;3931;Couvin;Charleroi-Sud
+IC;3932;Couvin;Charleroi-Sud
+IC;3933;Couvin;Charleroi-Sud
+IC;3934;Couvin;Charleroi-Sud
+IC;3935;Couvin;Charleroi-Sud
+IC;3936;Couvin;Charleroi-Sud
+IC;3938;Couvin;Charleroi-Sud
+IC;3939;Couvin;Charleroi-Sud
+IC;3940;Couvin;Charleroi-Sud
+IC;3941;Couvin;Charleroi-Sud
+S8;3956;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3957;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3958;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3959;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3960;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3961;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3962;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3963;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3964;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3965;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3966;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3967;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3968;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3969;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3970;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3971;Bruxelles-Midi/Brussel-Zuid;Louvain-la-Neuve-Université
+S8;3975;Namur;Bruxelles-Midi/Brussel-Zuid
+S8;3976;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;3977;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3978;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3979;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3980;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3981;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3982;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3983;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3984;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3985;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3986;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3987;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3988;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3989;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3990;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3991;Louvain-la-Neuve-Université;Bruxelles-Midi/Brussel-Zuid
+S8;3992;Louvain-la-Neuve-Université;Ottignies
+S8;3993;Louvain-la-Neuve-Université;Ottignies
+IC;4005;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4006;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4007;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4008;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4009;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4010;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4011;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4012;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4013;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4014;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4015;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4016;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4017;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4018;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4019;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4020;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4021;Charleroi-Sud;Brussels Airport-Zaventem
+IC;4027;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4028;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4029;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4030;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4031;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4032;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4033;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4034;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4035;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4036;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4037;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4038;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4039;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4040;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4041;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4042;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4043;Brussels Airport-Zaventem;Charleroi-Sud
+IC;4046;Leuven;Bruxelles-Luxembourg/Brussel-Luxemburg
+L;4057;Jurbise;Braine-le-Comte
+L;4058;Jurbise;Braine-le-Comte
+L;4059;Jurbise;Braine-le-Comte
+L;4060;Jurbise;Braine-le-Comte
+L;4061;Jurbise;Braine-le-Comte
+L;4062;Jurbise;Braine-le-Comte
+L;4063;Jurbise;Braine-le-Comte
+L;4064;Jurbise;Braine-le-Comte
+L;4065;Jurbise;Braine-le-Comte
+L;4066;Jurbise;Braine-le-Comte
+L;4067;Jurbise;Braine-le-Comte
+L;4068;Jurbise;Braine-le-Comte
+L;4069;Jurbise;Braine-le-Comte
+L;4070;Jurbise;Braine-le-Comte
+L;4076;Braine-le-Comte;Jurbise
+L;4077;Braine-le-Comte;Jurbise
+L;4078;Braine-le-Comte;Jurbise
+L;4079;Braine-le-Comte;Jurbise
+L;4080;Braine-le-Comte;Jurbise
+L;4081;Braine-le-Comte;Jurbise
+L;4082;Braine-le-Comte;Jurbise
+L;4083;Braine-le-Comte;Jurbise
+L;4084;Braine-le-Comte;Jurbise
+L;4085;Braine-le-Comte;Jurbise
+L;4086;Braine-le-Comte;Jurbise
+L;4087;Braine-le-Comte;Jurbise
+L;4088;Braine-le-Comte;Jurbise
+L;4089;Braine-le-Comte;Jurbise
+IC;4105;Dendermonde;Leuven
+IC;4106;Gent-Sint-Pieters;Leuven
+IC;4107;Gent-Sint-Pieters;Leuven
+IC;4108;Gent-Sint-Pieters;Leuven
+IC;4109;Gent-Sint-Pieters;Leuven
+IC;4110;Gent-Sint-Pieters;Leuven
+IC;4111;Gent-Sint-Pieters;Leuven
+IC;4112;Gent-Sint-Pieters;Leuven
+IC;4113;Gent-Sint-Pieters;Leuven
+IC;4114;Gent-Sint-Pieters;Leuven
+IC;4115;Gent-Sint-Pieters;Leuven
+IC;4116;Gent-Sint-Pieters;Leuven
+IC;4117;Gent-Sint-Pieters;Leuven
+IC;4118;Gent-Sint-Pieters;Leuven
+IC;4119;Gent-Sint-Pieters;Leuven
+IC;4120;Gent-Sint-Pieters;Leuven
+IC;4121;Gent-Sint-Pieters;Leuven
+IC;4122;Gent-Sint-Pieters;Leuven
+IC;4127;Leuven;Gent-Sint-Pieters
+IC;4128;Leuven;Gent-Sint-Pieters
+IC;4129;Leuven;Gent-Sint-Pieters
+IC;4130;Leuven;Gent-Sint-Pieters
+IC;4131;Leuven;Gent-Sint-Pieters
+IC;4132;Leuven;Gent-Sint-Pieters
+IC;4133;Leuven;Gent-Sint-Pieters
+IC;4134;Leuven;Gent-Sint-Pieters
+IC;4135;Leuven;Gent-Sint-Pieters
+IC;4136;Leuven;Gent-Sint-Pieters
+IC;4137;Leuven;Gent-Sint-Pieters
+IC;4138;Leuven;Gent-Sint-Pieters
+IC;4139;Leuven;Gent-Sint-Pieters
+IC;4140;Leuven;Gent-Sint-Pieters
+IC;4141;Leuven;Gent-Sint-Pieters
+IC;4142;Leuven;Gent-Sint-Pieters
+IC;4143;Leuven;Gent-Sint-Pieters
+IC;4144;Leuven;Dendermonde
+P;4156;Herentals;Lier
+P;4157;Herentals;Antwerpen-Centraal
+P;4158;Herentals;Antwerpen-Centraal
+P;4167;Herentals;Lier
+P;4168;Herentals;Lier
+P;4176;Lier;Herentals
+P;4177;Lier;Herentals
+P;4186;Antwerpen-Centraal;Herentals
+P;4187;Antwerpen-Centraal;Herentals
+P;4188;Lier;Herentals
+IC;4205;Turnhout;Antwerpen-Centraal
+IC;4206;Turnhout;Antwerpen-Centraal
+IC;4207;Turnhout;Antwerpen-Centraal
+IC;4208;Turnhout;Antwerpen-Centraal
+IC;4209;Turnhout;Antwerpen-Centraal
+IC;4210;Turnhout;Antwerpen-Centraal
+IC;4211;Turnhout;Antwerpen-Centraal
+IC;4212;Turnhout;Antwerpen-Centraal
+IC;4213;Turnhout;Antwerpen-Centraal
+IC;4214;Turnhout;Antwerpen-Centraal
+IC;4215;Turnhout;Antwerpen-Centraal
+IC;4216;Turnhout;Antwerpen-Centraal
+IC;4217;Turnhout;Antwerpen-Centraal
+IC;4218;Turnhout;Antwerpen-Centraal
+IC;4219;Turnhout;Antwerpen-Centraal
+IC;4220;Turnhout;Antwerpen-Centraal
+IC;4227;Antwerpen-Centraal;Turnhout
+IC;4228;Antwerpen-Centraal;Turnhout
+IC;4229;Antwerpen-Centraal;Turnhout
+IC;4230;Antwerpen-Centraal;Turnhout
+IC;4231;Antwerpen-Centraal;Turnhout
+IC;4232;Antwerpen-Centraal;Turnhout
+IC;4233;Antwerpen-Centraal;Turnhout
+IC;4234;Antwerpen-Centraal;Turnhout
+IC;4235;Antwerpen-Centraal;Turnhout
+IC;4236;Antwerpen-Centraal;Turnhout
+IC;4237;Antwerpen-Centraal;Turnhout
+IC;4238;Antwerpen-Centraal;Turnhout
+IC;4239;Antwerpen-Centraal;Turnhout
+IC;4240;Antwerpen-Centraal;Turnhout
+IC;4241;Antwerpen-Centraal;Turnhout
+IC;4242;Antwerpen-Centraal;Turnhout
+L;4254;La Louvière-Sud;Luttre
+L;4255;Charleroi-Sud;Luttre
+L;4256;Charleroi-Sud;Luttre
+L;4257;Charleroi-Sud;Luttre
+L;4258;Charleroi-Sud;Luttre
+L;4259;Charleroi-Sud;Luttre
+L;4260;Charleroi-Sud;Luttre
+L;4261;Charleroi-Sud;Luttre
+L;4262;Charleroi-Sud;Luttre
+L;4263;Charleroi-Sud;Luttre
+L;4264;Charleroi-Sud;Luttre
+L;4265;Charleroi-Sud;Luttre
+L;4266;Charleroi-Sud;Luttre
+L;4267;Charleroi-Sud;Luttre
+L;4268;Charleroi-Sud;Luttre
+L;4269;Charleroi-Sud;Luttre
+L;4276;La Louvière-Sud;Charleroi-Sud
+L;4277;Luttre;Charleroi-Sud
+L;4278;Luttre;Charleroi-Sud
+L;4279;Luttre;Charleroi-Sud
+L;4280;Luttre;Charleroi-Sud
+L;4281;Luttre;Charleroi-Sud
+L;4282;Luttre;Charleroi-Sud
+L;4283;Luttre;Charleroi-Sud
+L;4284;Luttre;Charleroi-Sud
+L;4285;Luttre;Charleroi-Sud
+L;4286;Luttre;Charleroi-Sud
+L;4287;Luttre;Charleroi-Sud
+L;4288;Luttre;Charleroi-Sud
+L;4289;Luttre;Charleroi-Sud
+L;4290;Luttre;Charleroi-Sud
+L;4291;Luttre;La Louvière-Sud
+L;4292;Luttre;La Louvière-Sud
+IC;4306;Antwerpen-Centraal;Hamont
+IC;4307;Antwerpen-Centraal;Hamont
+IC;4308;Antwerpen-Centraal;Hamont
+IC;4309;Antwerpen-Centraal;Hamont
+IC;4310;Antwerpen-Centraal;Hamont
+IC;4311;Antwerpen-Centraal;Hamont
+IC;4312;Antwerpen-Centraal;Hamont
+IC;4313;Antwerpen-Centraal;Hamont
+IC;4314;Antwerpen-Centraal;Hamont
+IC;4315;Antwerpen-Centraal;Hamont
+IC;4316;Antwerpen-Centraal;Hamont
+IC;4317;Antwerpen-Centraal;Hamont
+IC;4318;Antwerpen-Centraal;Hamont
+IC;4319;Antwerpen-Centraal;Hamont
+IC;4320;Antwerpen-Centraal;Hamont
+IC;4321;Antwerpen-Centraal;Hamont
+IC;4322;Antwerpen-Centraal;Neerpelt
+IC;4323;Antwerpen-Centraal;Mol
+IC;4325;Mol;Antwerpen-Centraal
+IC;4326;Hamont;Antwerpen-Centraal
+IC;4327;Hamont;Antwerpen-Centraal
+IC;4328;Hamont;Antwerpen-Centraal
+IC;4329;Hamont;Antwerpen-Centraal
+IC;4330;Hamont;Antwerpen-Centraal
+IC;4331;Hamont;Antwerpen-Centraal
+IC;4332;Hamont;Antwerpen-Centraal
+IC;4333;Hamont;Antwerpen-Centraal
+IC;4334;Hamont;Antwerpen-Centraal
+IC;4335;Hamont;Antwerpen-Centraal
+IC;4336;Hamont;Antwerpen-Centraal
+IC;4337;Hamont;Antwerpen-Centraal
+IC;4338;Hamont;Antwerpen-Centraal
+IC;4339;Hamont;Antwerpen-Centraal
+IC;4340;Hamont;Antwerpen-Centraal
+IC;4341;Hamont;Antwerpen-Centraal
+IC;4342;Hamont;Antwerpen-Centraal
+L;4356;Manage;Braine-le-Comte
+L;4357;Manage;Braine-le-Comte
+L;4358;Manage;Braine-le-Comte
+L;4359;Manage;Braine-le-Comte
+L;4360;Manage;Braine-le-Comte
+L;4361;Manage;Braine-le-Comte
+L;4362;Manage;Braine-le-Comte
+L;4363;Manage;Braine-le-Comte
+L;4364;Manage;Braine-le-Comte
+L;4365;Manage;Braine-le-Comte
+L;4366;Manage;Braine-le-Comte
+L;4367;Manage;Braine-le-Comte
+L;4368;Manage;Braine-le-Comte
+L;4369;Manage;Braine-le-Comte
+L;4370;Manage;Braine-le-Comte
+L;4376;Braine-le-Comte;Manage
+L;4377;Braine-le-Comte;Manage
+L;4378;Braine-le-Comte;Manage
+L;4379;Braine-le-Comte;Manage
+L;4380;Braine-le-Comte;Manage
+L;4381;Braine-le-Comte;Manage
+L;4382;Braine-le-Comte;Manage
+L;4383;Braine-le-Comte;Manage
+L;4384;Braine-le-Comte;Manage
+L;4385;Braine-le-Comte;Manage
+L;4386;Braine-le-Comte;Manage
+L;4387;Braine-le-Comte;Manage
+L;4388;Braine-le-Comte;Manage
+L;4389;Braine-le-Comte;Manage
+IC;4405;Mol;Hasselt
+IC;4406;Mol;Hasselt
+IC;4407;Mol;Hasselt
+IC;4408;Mol;Hasselt
+IC;4409;Mol;Hasselt
+IC;4410;Mol;Hasselt
+IC;4411;Mol;Hasselt
+IC;4412;Mol;Hasselt
+IC;4413;Mol;Hasselt
+IC;4414;Mol;Hasselt
+IC;4415;Mol;Hasselt
+IC;4416;Mol;Hasselt
+IC;4417;Mol;Hasselt
+IC;4418;Mol;Hasselt
+IC;4419;Mol;Hasselt
+IC;4420;Mol;Hasselt
+IC;4421;Mol;Hasselt
+IC;4427;Hasselt;Mol
+IC;4428;Hasselt;Mol
+IC;4429;Hasselt;Mol
+IC;4430;Hasselt;Mol
+IC;4431;Hasselt;Mol
+IC;4432;Hasselt;Mol
+IC;4433;Hasselt;Mol
+IC;4434;Hasselt;Mol
+IC;4435;Hasselt;Mol
+IC;4436;Hasselt;Mol
+IC;4437;Hasselt;Mol
+IC;4438;Hasselt;Mol
+IC;4439;Hasselt;Mol
+IC;4440;Hasselt;Mol
+IC;4441;Hasselt;Mol
+IC;4442;Hasselt;Mol
+IC;4443;Hasselt;Mol
+L;4455;Quévy;La Louvière-Sud
+L;4456;Mons;La Louvière-Sud
+L;4457;Quévy;La Louvière-Sud
+L;4458;Quévy;La Louvière-Sud
+L;4459;Quévy;La Louvière-Sud
+L;4460;Quévy;La Louvière-Sud
+L;4461;Quévy;La Louvière-Sud
+L;4462;Quévy;La Louvière-Sud
+L;4463;Quévy;La Louvière-Sud
+L;4464;Quévy;La Louvière-Sud
+L;4465;Quévy;La Louvière-Sud
+L;4466;Quévy;La Louvière-Sud
+L;4467;Quévy;La Louvière-Sud
+L;4468;Quévy;La Louvière-Sud
+L;4469;Quévy;La Louvière-Sud
+L;4477;La Louvière-Sud;Mons
+L;4478;La Louvière-Sud;Quévy
+L;4479;La Louvière-Sud;Quévy
+L;4480;La Louvière-Sud;Quévy
+L;4481;La Louvière-Sud;Quévy
+L;4482;La Louvière-Sud;Quévy
+L;4483;La Louvière-Sud;Quévy
+L;4484;La Louvière-Sud;Quévy
+L;4485;La Louvière-Sud;Quévy
+L;4486;La Louvière-Sud;Quévy
+L;4487;La Louvière-Sud;Mons
+L;4488;La Louvière-Sud;Quévy
+L;4489;La Louvière-Sud;Quévy
+L;4490;La Louvière-Sud;Quévy
+L;4491;La Louvière-Sud;Mons
+IC;4505;Charleroi-Sud;Antwerpen-Centraal
+IC;4506;Charleroi-Sud;Antwerpen-Centraal
+IC;4507;Charleroi-Sud;Antwerpen-Centraal
+IC;4508;Charleroi-Sud;Antwerpen-Centraal
+IC;4509;Charleroi-Sud;Antwerpen-Centraal
+IC;4510;Charleroi-Sud;Antwerpen-Centraal
+IC;4511;Charleroi-Sud;Antwerpen-Centraal
+IC;4512;Charleroi-Sud;Antwerpen-Centraal
+IC;4513;Charleroi-Sud;Antwerpen-Centraal
+IC;4514;Charleroi-Sud;Antwerpen-Centraal
+IC;4515;Charleroi-Sud;Antwerpen-Centraal
+IC;4516;Charleroi-Sud;Antwerpen-Centraal
+IC;4517;Charleroi-Sud;Antwerpen-Centraal
+IC;4518;Charleroi-Sud;Antwerpen-Centraal
+IC;4519;Charleroi-Sud;Antwerpen-Centraal
+IC;4520;Charleroi-Sud;Antwerpen-Centraal
+IC;4521;Charleroi-Sud;Antwerpen-Centraal
+IC;4522;Charleroi-Sud;Bruxelles-Nord/Brussel-Noord
+IC;4526;Antwerpen-Centraal;Charleroi-Sud
+IC;4527;Antwerpen-Centraal;Charleroi-Sud
+IC;4528;Antwerpen-Centraal;Charleroi-Sud
+IC;4529;Antwerpen-Centraal;Charleroi-Sud
+IC;4530;Antwerpen-Centraal;Charleroi-Sud
+IC;4531;Antwerpen-Centraal;Charleroi-Sud
+IC;4532;Antwerpen-Centraal;Charleroi-Sud
+IC;4533;Antwerpen-Centraal;Charleroi-Sud
+IC;4534;Antwerpen-Centraal;Charleroi-Sud
+IC;4535;Antwerpen-Centraal;Charleroi-Sud
+IC;4536;Antwerpen-Centraal;Charleroi-Sud
+IC;4537;Antwerpen-Centraal;Charleroi-Sud
+IC;4538;Antwerpen-Centraal;Charleroi-Sud
+IC;4539;Antwerpen-Centraal;Charleroi-Sud
+IC;4540;Antwerpen-Centraal;Charleroi-Sud
+IC;4541;Antwerpen-Centraal;Charleroi-Sud
+IC;4542;Antwerpen-Centraal;Charleroi-Sud
+IC;4543;Antwerpen-Centraal;Charleroi-Sud
+L;4555;Ottignies;Jambes
+L;4556;Ottignies;Jambes
+L;4557;Ottignies;Jambes
+L;4558;Ottignies;Jambes
+L;4559;Ottignies;Jambes
+L;4560;Ottignies;Jambes
+L;4561;Ottignies;Jambes
+L;4562;Ottignies;Jambes
+L;4563;Ottignies;Jambes
+L;4564;Ottignies;Jambes
+L;4565;Ottignies;Jambes
+L;4566;Wavre;Jambes
+L;4567;Ottignies;Jambes
+L;4568;Ottignies;Jambes
+L;4569;Ottignies;Namur
+L;4570;Ottignies;Namur
+L;4571;Ottignies;Charleroi-Sud
+L;4572;Ottignies;Charleroi-Sud
+L;4576;Charleroi-Sud;Ottignies
+L;4577;Namur;Wavre
+L;4578;Namur;Basse-Wavre
+L;4579;Jambes;Ottignies
+L;4580;Jambes;Ottignies
+L;4581;Jambes;Ottignies
+L;4582;Jambes;Ottignies
+L;4583;Jambes;Ottignies
+L;4584;Jambes;Ottignies
+L;4585;Jambes;Ottignies
+L;4586;Jambes;Ottignies
+L;4587;Jambes;Ottignies
+L;4588;Jambes;Ottignies
+L;4589;Jambes;Ottignies
+L;4590;Jambes;Ottignies
+L;4591;Jambes;Ottignies
+L;4592;Jambes;Ottignies
+IC;4606;Namur;Luxembourg
+IC;4614;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;4618;Bruxelles-Midi/Brussel-Zuid;Luxembourg
+IC;4629;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;4631;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+IC;4640;Luxembourg;Bruxelles-Midi/Brussel-Zuid
+L;4705;Luxembourg;Athus
+L;4706;Luxembourg;Athus
+L;4707;Luxembourg;Athus
+L;4708;Luxembourg;Athus
+L;4709;Luxembourg;Athus
+L;4710;Luxembourg;Athus
+L;4711;Luxembourg;Athus
+L;4712;Luxembourg;Athus
+L;4713;Luxembourg;Athus
+L;4714;Luxembourg;Athus
+L;4715;Luxembourg;Athus
+L;4716;Luxembourg;Athus
+L;4717;Luxembourg;Athus
+L;4718;Luxembourg;Athus
+L;4719;Luxembourg;Athus
+L;4720;Luxembourg;Athus
+L;4721;Luxembourg;Athus
+L;4722;Luxembourg;Athus
+L;4723;Luxembourg;Athus
+L;4730;Athus;Luxembourg
+L;4731;Athus;Luxembourg
+L;4732;Athus;Luxembourg
+L;4733;Athus;Luxembourg
+L;4734;Athus;Luxembourg
+L;4735;Athus;Luxembourg
+L;4736;Athus;Luxembourg
+L;4737;Athus;Luxembourg
+L;4738;Athus;Luxembourg
+L;4739;Athus;Luxembourg
+L;4740;Athus;Luxembourg
+L;4741;Athus;Luxembourg
+L;4742;Athus;Luxembourg
+L;4743;Athus;Luxembourg
+L;4744;Athus;Luxembourg
+L;4745;Athus;Luxembourg
+L;4746;Athus;Luxembourg
+L;4747;Athus;Luxembourg
+L;4748;Athus;Luxembourg
+L;4755;Charleroi-Sud;Erquelinnes
+L;4756;Charleroi-Sud;Erquelinnes
+L;4757;Charleroi-Sud;Erquelinnes
+L;4758;Charleroi-Sud;Erquelinnes
+L;4759;Charleroi-Sud;Erquelinnes
+L;4760;Charleroi-Sud;Erquelinnes
+L;4761;Charleroi-Sud;Erquelinnes
+L;4762;Charleroi-Sud;Erquelinnes
+L;4763;Charleroi-Sud;Erquelinnes
+L;4764;Charleroi-Sud;Erquelinnes
+L;4765;Charleroi-Sud;Erquelinnes
+L;4766;Charleroi-Sud;Erquelinnes
+L;4767;Charleroi-Sud;Erquelinnes
+L;4768;Charleroi-Sud;Erquelinnes
+L;4769;Charleroi-Sud;Erquelinnes
+L;4775;Erquelinnes;Charleroi-Sud
+L;4776;Erquelinnes;Charleroi-Sud
+L;4777;Erquelinnes;Charleroi-Sud
+L;4778;Erquelinnes;Charleroi-Sud
+L;4779;Erquelinnes;Charleroi-Sud
+L;4780;Erquelinnes;Charleroi-Sud
+L;4781;Erquelinnes;Charleroi-Sud
+L;4782;Erquelinnes;Charleroi-Sud
+L;4783;Erquelinnes;Charleroi-Sud
+L;4784;Erquelinnes;Charleroi-Sud
+L;4785;Erquelinnes;Charleroi-Sud
+L;4786;Erquelinnes;Charleroi-Sud
+L;4787;Erquelinnes;Charleroi-Sud
+L;4788;Erquelinnes;Charleroi-Sud
+L;4789;Erquelinnes;Charleroi-Sud
+L;4790;Erquelinnes;Charleroi-Sud
+L;4853;Mons;Tournai
+L;4854;Mons;Tournai
+L;4855;Geraardsbergen;Mouscron
+L;4856;Geraardsbergen;Tournai
+L;4857;Geraardsbergen;Tournai
+L;4858;Geraardsbergen;Tournai
+L;4859;Geraardsbergen;Tournai
+L;4860;Geraardsbergen;Tournai
+L;4861;Geraardsbergen;Tournai
+L;4862;Geraardsbergen;Tournai
+L;4863;Geraardsbergen;Mouscron
+L;4864;Geraardsbergen;Mouscron
+L;4865;Geraardsbergen;Tournai
+L;4866;Geraardsbergen;Tournai
+L;4867;Geraardsbergen;Tournai
+L;4868;Geraardsbergen;Tournai
+L;4869;Geraardsbergen;Tournai
+L;4870;Geraardsbergen;Tournai
+L;4871;Geraardsbergen;Ath
+L;4875;Ath;Geraardsbergen
+L;4876;Mons;Geraardsbergen
+L;4877;Tournai;Geraardsbergen
+L;4878;Tournai;Geraardsbergen
+L;4879;Tournai;Geraardsbergen
+L;4880;Mouscron;Geraardsbergen
+L;4881;Tournai;Geraardsbergen
+L;4882;Tournai;Geraardsbergen
+L;4883;Tournai;Geraardsbergen
+L;4884;Tournai;Geraardsbergen
+L;4885;Tournai;Geraardsbergen
+L;4886;Tournai;Geraardsbergen
+L;4887;Tournai;Geraardsbergen
+L;4888;Mouscron;Geraardsbergen
+L;4889;Mouscron;Geraardsbergen
+L;4890;Tournai;Geraardsbergen
+L;4891;Tournai;Geraardsbergen
+L;4892;Tournai;Mons
+L;4893;Tournai;Mons
+L;4894;Tournai;Mons
+L;4954;Huy;Liège-Guillemins
+L;4955;Huy;Liège-Guillemins
+L;4956;Namur;Liège-Guillemins
+L;4957;Namur;Liège-Guillemins
+L;4958;Namur;Liège-Guillemins
+L;4959;Namur;Liège-Guillemins
+L;4960;Namur;Liège-Guillemins
+L;4961;Namur;Liège-Guillemins
+L;4962;Namur;Liège-Guillemins
+L;4963;Namur;Liège-Guillemins
+L;4964;Namur;Liège-Guillemins
+L;4965;Namur;Liège-Guillemins
+L;4966;Namur;Liège-Guillemins
+L;4967;Namur;Liège-Guillemins
+L;4968;Namur;Liège-Guillemins
+L;4969;Namur;Liège-Guillemins
+L;4970;Namur;Liège-Guillemins
+L;4976;Liège-Guillemins;Namur
+L;4977;Liège-Guillemins;Namur
+L;4978;Liège-Guillemins;Namur
+L;4979;Liège-Guillemins;Namur
+L;4980;Liège-Guillemins;Namur
+L;4981;Liège-Guillemins;Namur
+L;4982;Liège-Guillemins;Namur
+L;4983;Liège-Guillemins;Namur
+L;4984;Liège-Guillemins;Namur
+L;4985;Liège-Guillemins;Namur
+L;4986;Liège-Guillemins;Namur
+L;4987;Liège-Guillemins;Namur
+L;4988;Liège-Guillemins;Namur
+L;4989;Liège-Guillemins;Namur
+L;4990;Liège-Guillemins;Namur
+L;4991;Liège-Guillemins;Huy
+L;5005;Welkenraedt;Aachen Hbf
+L;5006;Spa-Géronstère;Aachen Hbf
+L;5007;Spa-Géronstère;Aachen Hbf
+L;5008;Spa-Géronstère;Aachen Hbf
+L;5009;Spa-Géronstère;Aachen Hbf
+L;5010;Spa-Géronstère;Aachen Hbf
+L;5011;Spa-Géronstère;Aachen Hbf
+L;5012;Spa-Géronstère;Aachen Hbf
+L;5013;Spa-Géronstère;Aachen Hbf
+L;5014;Spa-Géronstère;Aachen Hbf
+L;5015;Spa-Géronstère;Aachen Hbf
+L;5016;Spa-Géronstère;Aachen Hbf
+L;5017;Spa-Géronstère;Aachen Hbf
+L;5018;Spa-Géronstère;Aachen Hbf
+L;5019;Spa-Géronstère;Aachen Hbf
+L;5020;Spa-Géronstère;Welkenraedt
+L;5027;Welkenraedt;Spa-Géronstère
+L;5028;Aachen Hbf;Spa-Géronstère
+L;5029;Aachen Hbf;Spa-Géronstère
+L;5030;Aachen Hbf;Spa-Géronstère
+L;5031;Aachen Hbf;Spa-Géronstère
+L;5032;Aachen Hbf;Spa-Géronstère
+L;5033;Aachen Hbf;Spa-Géronstère
+L;5034;Aachen Hbf;Spa-Géronstère
+L;5035;Aachen Hbf;Spa-Géronstère
+L;5036;Aachen Hbf;Spa-Géronstère
+L;5037;Aachen Hbf;Spa-Géronstère
+L;5038;Aachen Hbf;Spa-Géronstère
+L;5039;Aachen Hbf;Spa-Géronstère
+L;5040;Aachen Hbf;Spa-Géronstère
+L;5041;Aachen Hbf;Spa-Géronstère
+L;5042;Aachen Hbf;Welkenraedt
+L;5050;Luxembourg;Athus
+L;5055;Luxembourg;Athus
+L;5056;Luxembourg;Athus
+L;5057;Luxembourg;Athus
+L;5058;Luxembourg;Athus
+L;5059;Luxembourg;Athus
+L;5060;Luxembourg;Athus
+L;5061;Luxembourg;Athus
+L;5062;Luxembourg;Athus
+L;5063;Luxembourg;Athus
+L;5064;Luxembourg;Athus
+L;5065;Luxembourg;Athus
+L;5066;Luxembourg;Athus
+L;5067;Luxembourg;Athus
+L;5068;Luxembourg;Athus
+L;5069;Luxembourg;Athus
+L;5070;Luxembourg;Athus
+L;5071;Luxembourg;Athus
+L;5072;Luxembourg;Athus
+L;5073;Luxembourg;Athus
+L;5079;Athus;Luxembourg
+L;5080;Athus;Luxembourg
+L;5081;Athus;Luxembourg
+L;5082;Athus;Luxembourg
+L;5083;Athus;Luxembourg
+L;5084;Athus;Luxembourg
+L;5085;Athus;Luxembourg
+L;5086;Athus;Luxembourg
+L;5087;Athus;Luxembourg
+L;5088;Athus;Luxembourg
+L;5089;Athus;Luxembourg
+L;5090;Athus;Luxembourg
+L;5091;Athus;Luxembourg
+L;5092;Athus;Luxembourg
+L;5093;Athus;Luxembourg
+L;5094;Athus;Luxembourg
+L;5095;Athus;Luxembourg
+L;5096;Athus;Luxembourg
+L;5097;Athus;Luxembourg
+L;5098;Athus;Luxembourg
+L;5156;Waremme;Liège-Guillemins
+L;5157;Waremme;Liège-Guillemins
+L;5158;Waremme;Liège-Guillemins
+L;5159;Waremme;Liège-Guillemins
+L;5160;Waremme;Liège-Guillemins
+L;5161;Waremme;Liège-Guillemins
+L;5162;Waremme;Liège-Guillemins
+L;5163;Waremme;Liège-Guillemins
+L;5164;Waremme;Liège-Guillemins
+L;5165;Waremme;Liège-Guillemins
+L;5166;Waremme;Liège-Guillemins
+L;5167;Waremme;Liège-Guillemins
+L;5168;Waremme;Liège-Guillemins
+L;5169;Waremme;Liège-Guillemins
+L;5176;Liège-Guillemins;Waremme
+L;5177;Liège-Guillemins;Waremme
+L;5178;Liège-Guillemins;Waremme
+L;5179;Liège-Guillemins;Waremme
+L;5180;Liège-Guillemins;Waremme
+L;5181;Liège-Guillemins;Waremme
+L;5182;Liège-Guillemins;Waremme
+L;5183;Liège-Guillemins;Waremme
+L;5184;Liège-Guillemins;Waremme
+L;5185;Liège-Guillemins;Waremme
+L;5186;Liège-Guillemins;Waremme
+L;5187;Liège-Guillemins;Waremme
+L;5188;Liège-Guillemins;Waremme
+L;5189;Liège-Guillemins;Waremme
+L;5190;Liège-Guillemins;Waremme
+L;5256;Herstal;Verviers-Central
+L;5257;Herstal;Verviers-Palais
+L;5258;Herstal;Verviers-Central
+L;5259;Herstal;Verviers-Central
+L;5260;Herstal;Verviers-Central
+L;5261;Herstal;Verviers-Central
+L;5262;Herstal;Verviers-Central
+L;5263;Herstal;Verviers-Central
+L;5264;Herstal;Verviers-Central
+L;5265;Herstal;Verviers-Central
+L;5266;Herstal;Verviers-Central
+L;5267;Herstal;Verviers-Central
+L;5268;Herstal;Verviers-Central
+L;5269;Herstal;Verviers-Central
+L;5270;Herstal;Verviers-Central
+L;5271;Herstal;Verviers-Central
+L;5276;Verviers-Central;Herstal
+L;5277;Verviers-Central;Herstal
+L;5278;Verviers-Central;Herstal
+L;5279;Verviers-Central;Herstal
+L;5280;Verviers-Central;Herstal
+L;5281;Verviers-Central;Herstal
+L;5282;Verviers-Central;Herstal
+L;5283;Verviers-Central;Herstal
+L;5284;Verviers-Central;Herstal
+L;5285;Verviers-Central;Herstal
+L;5286;Verviers-Palais;Herstal
+L;5287;Verviers-Central;Herstal
+L;5288;Verviers-Central;Herstal
+L;5289;Verviers-Central;Herstal
+L;5290;Verviers-Central;Herstal
+L;5291;Verviers-Central;Herstal
+IC;5354;Liège-Guillemins;Maastricht
+IC;5355;Liège-Guillemins;Maastricht
+IC;5356;Hasselt;Maastricht
+IC;5357;Hasselt;Maastricht
+IC;5358;Hasselt;Maastricht
+IC;5359;Hasselt;Maastricht
+IC;5360;Hasselt;Maastricht
+IC;5361;Hasselt;Maastricht
+IC;5362;Hasselt;Maastricht
+IC;5363;Hasselt;Maastricht
+IC;5364;Hasselt;Maastricht
+IC;5365;Hasselt;Maastricht
+IC;5366;Hasselt;Maastricht
+IC;5367;Hasselt;Maastricht
+IC;5368;Hasselt;Maastricht
+IC;5369;Hasselt;Maastricht
+IC;5370;Hasselt;Maastricht
+IC;5371;Liège-Guillemins;Maastricht
+IC;5376;Tongeren;Hasselt
+IC;5377;Tongeren;Hasselt
+IC;5378;Maastricht;Hasselt
+IC;5379;Maastricht;Hasselt
+IC;5380;Maastricht;Hasselt
+IC;5381;Maastricht;Hasselt
+IC;5382;Maastricht;Hasselt
+IC;5383;Maastricht;Hasselt
+IC;5384;Maastricht;Hasselt
+IC;5385;Maastricht;Hasselt
+IC;5386;Maastricht;Hasselt
+IC;5387;Maastricht;Hasselt
+IC;5388;Maastricht;Hasselt
+IC;5389;Maastricht;Hasselt
+IC;5390;Maastricht;Hasselt
+IC;5391;Maastricht;Hasselt
+IC;5392;Maastricht;Hasselt
+IC;5393;Maastricht;Liège-Guillemins
+IC;5394;Maastricht;Liège-Guillemins
+L;5555;Liers;Marloie
+L;5556;Liers;Marloie
+L;5557;Liers;Marloie
+L;5558;Liers;Marloie
+L;5559;Liers;Marloie
+L;5560;Liers;Marloie
+L;5561;Liers;Marloie
+L;5562;Liers;Marloie
+L;5563;Liers;Marloie
+L;5564;Liers;Marloie
+L;5565;Liers;Marloie
+L;5566;Liers;Marloie
+L;5567;Liers;Marloie
+L;5568;Liers;Marloie
+L;5569;Liers;Marloie
+L;5570;Liers;Marloie
+L;5571;Liers;Marloie
+L;5576;Marloie;Liers
+L;5577;Marloie;Liers
+L;5578;Marloie;Liers
+L;5579;Marloie;Liers
+L;5580;Marloie;Liers
+L;5581;Marloie;Liers
+L;5582;Marloie;Liers
+L;5583;Marloie;Liers
+L;5584;Marloie;Liers
+L;5585;Marloie;Liers
+L;5586;Marloie;Liers
+L;5587;Marloie;Liers
+L;5588;Marloie;Liers
+L;5589;Marloie;Liers
+L;5590;Marloie;Liers
+L;5591;Marloie;Liers
+L;5592;Marloie;Liers
+S8;5656;Ottignies;Louvain-la-Neuve-Université
+S8;5657;Ottignies;Louvain-la-Neuve-Université
+S8;5658;Ottignies;Louvain-la-Neuve-Université
+S8;5659;Ottignies;Louvain-la-Neuve-Université
+S8;5660;Ottignies;Louvain-la-Neuve-Université
+S8;5661;Ottignies;Louvain-la-Neuve-Université
+S8;5662;Ottignies;Louvain-la-Neuve-Université
+S8;5663;Ottignies;Louvain-la-Neuve-Université
+S8;5664;Ottignies;Louvain-la-Neuve-Université
+S8;5665;Ottignies;Louvain-la-Neuve-Université
+S8;5666;Ottignies;Louvain-la-Neuve-Université
+S8;5667;Ottignies;Louvain-la-Neuve-Université
+S8;5668;Ottignies;Louvain-la-Neuve-Université
+S8;5669;Ottignies;Louvain-la-Neuve-Université
+S8;5670;Ottignies;Louvain-la-Neuve-Université
+S8;5671;Ottignies;Louvain-la-Neuve-Université
+S8;5672;Ottignies;Louvain-la-Neuve-Université
+S8;5673;Ottignies;Louvain-la-Neuve-Université
+S8;5676;Louvain-la-Neuve-Université;Ottignies
+S8;5677;Louvain-la-Neuve-Université;Ottignies
+S8;5678;Louvain-la-Neuve-Université;Ottignies
+S8;5679;Louvain-la-Neuve-Université;Ottignies
+S8;5680;Louvain-la-Neuve-Université;Ottignies
+S8;5681;Louvain-la-Neuve-Université;Ottignies
+S8;5682;Louvain-la-Neuve-Université;Ottignies
+S8;5683;Louvain-la-Neuve-Université;Ottignies
+S8;5684;Louvain-la-Neuve-Université;Ottignies
+S8;5685;Louvain-la-Neuve-Université;Ottignies
+S8;5686;Louvain-la-Neuve-Université;Ottignies
+S8;5687;Louvain-la-Neuve-Université;Ottignies
+S8;5688;Louvain-la-Neuve-Université;Ottignies
+S8;5689;Louvain-la-Neuve-Université;Ottignies
+S8;5690;Louvain-la-Neuve-Université;Ottignies
+S8;5691;Louvain-la-Neuve-Université;Ottignies
+S8;5692;Louvain-la-Neuve-Université;Ottignies
+S8;5693;Louvain-la-Neuve-Université;Ottignies
+L;5756;Namur;Sart-Bernard
+L;5757;Namur;Sart-Bernard
+L;5758;Namur;Sart-Bernard
+L;5759;Namur;Sart-Bernard
+L;5760;Namur;Sart-Bernard
+L;5761;Namur;Sart-Bernard
+L;5762;Namur;Sart-Bernard
+L;5763;Namur;Sart-Bernard
+L;5764;Namur;Sart-Bernard
+L;5765;Namur;Sart-Bernard
+L;5766;Namur;Sart-Bernard
+L;5767;Namur;Sart-Bernard
+L;5768;Namur;Sart-Bernard
+L;5769;Namur;Sart-Bernard
+L;5770;Namur;Sart-Bernard
+L;5776;Sart-Bernard;Namur
+L;5777;Sart-Bernard;Namur
+L;5778;Sart-Bernard;Namur
+L;5779;Sart-Bernard;Namur
+L;5780;Sart-Bernard;Namur
+L;5781;Sart-Bernard;Namur
+L;5782;Sart-Bernard;Namur
+L;5783;Sart-Bernard;Namur
+L;5784;Sart-Bernard;Namur
+L;5785;Sart-Bernard;Namur
+L;5786;Sart-Bernard;Namur
+L;5787;Sart-Bernard;Namur
+L;5788;Sart-Bernard;Namur
+L;5789;Sart-Bernard;Namur
+L;5790;Sart-Bernard;Namur
+L;5791;Sart-Bernard;Namur
+L;5805;Arlon;Luxembourg
+L;5806;Arlon;Luxembourg
+L;5807;Arlon;Luxembourg
+L;5808;Arlon;Luxembourg
+L;5809;Arlon;Luxembourg
+L;5811;Arlon;Luxembourg
+L;5813;Arlon;Luxembourg
+L;5814;Arlon;Luxembourg
+L;5815;Arlon;Luxembourg
+L;5817;Arlon;Luxembourg
+L;5818;Arlon;Luxembourg
+L;5819;Arlon;Luxembourg
+L;5821;Arlon;Luxembourg
+L;5825;Luxembourg;Arlon
+L;5826;Luxembourg;Arlon
+L;5827;Luxembourg;Arlon
+L;5828;Luxembourg;Arlon
+L;5830;Luxembourg;Arlon
+L;5832;Luxembourg;Arlon
+L;5833;Luxembourg;Arlon
+L;5834;Luxembourg;Arlon
+L;5836;Luxembourg;Arlon
+L;5837;Luxembourg;Arlon
+L;5838;Luxembourg;Arlon
+L;5840;Luxembourg;Arlon
+L;5856;Libramont;Arlon
+L;5858;Libramont;Arlon
+L;5860;Libramont;Arlon
+L;5862;Libramont;Arlon
+L;5864;Libramont;Arlon
+L;5866;Libramont;Arlon
+L;5868;Libramont;Arlon
+L;5870;Libramont;Arlon
+L;5877;Arlon;Libramont
+L;5879;Arlon;Libramont
+L;5881;Arlon;Libramont
+L;5883;Arlon;Libramont
+L;5885;Arlon;Libramont
+L;5887;Arlon;Libramont
+L;5889;Arlon;Libramont
+L;5891;Arlon;Libramont
+L;5904;Arlon;Luxembourg
+L;5905;Arlon;Luxembourg
+L;5906;Arlon;Luxembourg
+L;5907;Arlon;Luxembourg
+L;5908;Arlon;Luxembourg
+L;5909;Arlon;Luxembourg
+L;5912;Arlon;Luxembourg
+L;5916;Arlon;Luxembourg
+L;5917;Arlon;Luxembourg
+L;5918;Arlon;Luxembourg
+L;5919;Arlon;Luxembourg
+L;5926;Luxembourg;Arlon
+L;5927;Luxembourg;Arlon
+L;5928;Luxembourg;Arlon
+L;5929;Luxembourg;Arlon
+L;5932;Luxembourg;Arlon
+L;5937;Luxembourg;Arlon
+L;5938;Luxembourg;Arlon
+L;5939;Luxembourg;Arlon
+L;5941;Luxembourg;Arlon
+L;5944;Luxembourg;Arlon
+L;5956;Virton;Arlon
+L;5958;Libramont;Arlon
+L;5960;Libramont;Arlon
+L;5962;Libramont;Arlon
+L;5964;Libramont;Arlon
+L;5966;Libramont;Arlon
+L;5968;Libramont;Arlon
+L;5970;Libramont;Arlon
+L;5972;Libramont;Bertrix
+L;5976;Virton;Libramont
+L;5978;Arlon;Libramont
+L;5980;Arlon;Libramont
+L;5982;Arlon;Libramont
+L;5984;Arlon;Libramont
+L;5986;Arlon;Libramont
+L;5988;Arlon;Libramont
+L;5990;Arlon;Libramont
+L;5992;Arlon;Libramont
+L;6055;Namur;Libramont
+L;6057;Namur;Libramont
+L;6059;Namur;Libramont
+L;6061;Namur;Libramont
+L;6063;Namur;Libramont
+L;6065;Namur;Libramont
+L;6067;Namur;Libramont
+L;6069;Namur;Libramont
+L;6077;Bertrix;Namur
+L;6079;Libramont;Namur
+L;6081;Libramont;Namur
+L;6083;Libramont;Namur
+L;6085;Libramont;Namur
+L;6087;Libramont;Namur
+L;6089;Libramont;Namur
+L;6091;Libramont;Namur
+L;6156;Ciney;Libramont
+L;6158;Ciney;Libramont
+L;6160;Ciney;Libramont
+L;6162;Ciney;Libramont
+L;6164;Ciney;Libramont
+L;6166;Ciney;Libramont
+L;6168;Ciney;Libramont
+L;6170;Ciney;Libramont
+L;6177;Libramont;Ciney
+L;6179;Libramont;Ciney
+L;6181;Libramont;Ciney
+L;6183;Libramont;Ciney
+L;6185;Libramont;Ciney
+L;6187;Libramont;Ciney
+L;6189;Libramont;Ciney
+L;6191;Libramont;Jemelle
+L;6256;Ottignies;Namur
+L;6257;Ottignies;Namur
+L;6258;Ottignies;Namur
+L;6259;Ottignies;Namur
+L;6260;Ottignies;Namur
+L;6261;Ottignies;Namur
+L;6262;Ottignies;Namur
+L;6263;Ottignies;Namur
+L;6264;Ottignies;Namur
+L;6265;Ottignies;Namur
+L;6266;Ottignies;Rhisnes
+L;6267;Ottignies;Rhisnes
+L;6268;Ottignies;Namur
+L;6269;Ottignies;Namur
+L;6270;Ottignies;Namur
+L;6271;Ottignies;Namur
+L;6272;Ottignies;Namur
+L;6276;Namur;Ottignies
+L;6277;Rhisnes;Ottignies
+L;6278;Namur;Ottignies
+L;6279;Namur;Ottignies
+L;6280;Namur;Ottignies
+L;6281;Namur;Ottignies
+L;6282;Namur;Ottignies
+L;6283;Namur;Ottignies
+L;6284;Namur;Ottignies
+L;6285;Namur;Ottignies
+L;6286;Namur;Ottignies
+L;6287;Namur;Ottignies
+L;6288;Namur;Ottignies
+L;6289;Namur;Ottignies
+L;6290;Namur;Ottignies
+L;6291;Namur;Ottignies
+S8;6356;Ottignies;Louvain-la-Neuve-Université
+S8;6357;Ottignies;Louvain-la-Neuve-Université
+S8;6358;Ottignies;Louvain-la-Neuve-Université
+S8;6359;Ottignies;Louvain-la-Neuve-Université
+S8;6360;Ottignies;Louvain-la-Neuve-Université
+S8;6361;Ottignies;Louvain-la-Neuve-Université
+S8;6362;Ottignies;Louvain-la-Neuve-Université
+S8;6363;Ottignies;Louvain-la-Neuve-Université
+S8;6364;Ottignies;Louvain-la-Neuve-Université
+S8;6365;Ottignies;Louvain-la-Neuve-Université
+S8;6366;Ottignies;Louvain-la-Neuve-Université
+S8;6367;Ottignies;Louvain-la-Neuve-Université
+S8;6368;Ottignies;Louvain-la-Neuve-Université
+S8;6369;Ottignies;Louvain-la-Neuve-Université
+S8;6370;Ottignies;Louvain-la-Neuve-Université
+S8;6376;Louvain-la-Neuve-Université;Ottignies
+S8;6377;Louvain-la-Neuve-Université;Ottignies
+S8;6378;Louvain-la-Neuve-Université;Ottignies
+S8;6379;Louvain-la-Neuve-Université;Ottignies
+S8;6380;Louvain-la-Neuve-Université;Ottignies
+S8;6381;Louvain-la-Neuve-Université;Ottignies
+S8;6382;Louvain-la-Neuve-Université;Ottignies
+S8;6383;Louvain-la-Neuve-Université;Ottignies
+S8;6384;Louvain-la-Neuve-Université;Ottignies
+S8;6385;Louvain-la-Neuve-Université;Ottignies
+S8;6386;Louvain-la-Neuve-Université;Ottignies
+S8;6387;Louvain-la-Neuve-Université;Ottignies
+S8;6388;Louvain-la-Neuve-Université;Ottignies
+S8;6389;Louvain-la-Neuve-Université;Ottignies
+S8;6390;Louvain-la-Neuve-Université;Ottignies
+S8;6391;Louvain-la-Neuve-Université;Ottignies
+S8;6392;Louvain-la-Neuve-Université;Ottignies
+S20;6455;Ottignies;Leuven
+S20;6456;Ottignies;Leuven
+S20;6457;Ottignies;Leuven
+S20;6458;Ottignies;Leuven
+S20;6459;Ottignies;Leuven
+S20;6460;Ottignies;Leuven
+S20;6461;Ottignies;Leuven
+S20;6462;Ottignies;Leuven
+S20;6463;Ottignies;Leuven
+S20;6464;Ottignies;Leuven
+S20;6465;Ottignies;Leuven
+S20;6466;Ottignies;Leuven
+S20;6467;Ottignies;Leuven
+S20;6468;Ottignies;Leuven
+S20;6469;Ottignies;Leuven
+S20;6470;Ottignies;Leuven
+S20;6471;Ottignies;Leuven
+S20;6476;Wavre;Ottignies
+S20;6477;Leuven;Ottignies
+S20;6478;Leuven;Ottignies
+S20;6479;Leuven;Ottignies
+S20;6480;Leuven;Ottignies
+S20;6481;Leuven;Ottignies
+S20;6482;Leuven;Ottignies
+S20;6483;Leuven;Ottignies
+S20;6484;Leuven;Ottignies
+S20;6485;Leuven;Ottignies
+S20;6486;Leuven;Ottignies
+S20;6487;Leuven;Ottignies
+S20;6488;Leuven;Ottignies
+S20;6489;Leuven;Ottignies
+S20;6490;Leuven;Ottignies
+S20;6491;Leuven;Ottignies
+S20;6492;Leuven;Ottignies
+S8;6555;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6556;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6557;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6558;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6559;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6560;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6561;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6562;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6563;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6564;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6565;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6566;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6567;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6568;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6569;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6570;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6571;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6572;Bruxelles-Midi/Brussel-Zuid;Ottignies
+S8;6576;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6577;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6578;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6579;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6580;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6581;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6582;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6583;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6584;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6585;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6586;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6587;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6588;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6589;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6590;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6591;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6592;Ottignies;Bruxelles-Midi/Brussel-Zuid
+S8;6593;Ottignies;Bruxelles-Midi/Brussel-Zuid
+ICT;6960;Ottignies;Wavre
+ICT;6963;Ottignies;Wavre
+ICT;6964;Ottignies;Wavre
+ICT;6967;Wavre;Ottignies
+ICT;6968;Wavre;Ottignies
+ICT;6969;Wavre;Ottignies
+ICT;6970;Wavre;Ottignies
+ICT;6971;Wavre;Ottignies
+ICT;6979;Dinant;Houyet
+ICT;6980;Dinant;Houyet
+ICT;6981;Dinant;Houyet
+ICT;6982;Dinant;Houyet
+ICT;6983;Dinant;Houyet
+ICT;6985;Wavre;Ottignies
+ICT;6986;Wavre;Ottignies
+ICT;6987;Wavre;Ottignies
+ICT;6988;Wavre;Ottignies
+ICT;6989;Wavre;Ottignies
+ICT;6990;Wavre;Ottignies
+ICT;6991;Wavre;Ottignies
+ICT;6992;Wavre;Ottignies
+P;7001;Oostende;Schaerbeek/Schaarbeek
+P;7002;Oostende;Schaerbeek/Schaarbeek
+P;7006;De Panne;Schaerbeek/Schaarbeek
+P;7007;De Panne;Schaerbeek/Schaarbeek
+P;7008;Poperinge;Schaerbeek/Schaarbeek
+P;7009;Poperinge;Schaerbeek/Schaarbeek
+P;7010;Gent-Sint-Pieters;Denderleeuw
+P;7011;Gent-Sint-Pieters;Schaerbeek/Schaarbeek
+P;7012;Gent-Sint-Pieters;Schaerbeek/Schaarbeek
+P;7013;Sint-Niklaas;Schaerbeek/Schaarbeek
+P;7014;Gent-Sint-Pieters;Schaerbeek/Schaarbeek
+S10;7015;Aalst;Bruxelles-Midi/Brussel-Zuid
+S10;7016;Aalst;Bruxelles-Midi/Brussel-Zuid
+P;7051;Brugge;Gent-Sint-Pieters
+P;7052;Brugge;Gent-Sint-Pieters
+P;7053;Brugge;Gent-Sint-Pieters
+P;7054;Gent-Sint-Pieters;Brugge
+P;7055;Gent-Sint-Pieters;Brugge
+P;7057;Brugge;Zeebrugge-Dorp
+P;7058;Zeebrugge-Dorp;Brugge
+P;7064;Knokke;Brugge
+P;7065;Knokke;Brugge
+P;7080;Kortrijk;Poperinge
+P;7082;Poperinge;Kortrijk
+P;7087;Sint-Niklaas;Leuven
+P;7088;Sint-Niklaas;Leuven
+P;7089;Sint-Niklaas;Mechelen
+P;7090;Dendermonde;Gent-Sint-Pieters
+P;7091;Dendermonde;Mechelen
+S3;7092;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+P;7093;Mechelen;Dendermonde
+S3;7094;Dendermonde;Bruxelles-Midi/Brussel-Zuid
+P;7096;Dendermonde;Mechelen
+P;7097;Dendermonde;Leuven
+P;7098;Mechelen;Sint-Niklaas
+P;7181;Virton;Rodange
+P;7182;Virton;Luxembourg
+P;7200;Roosendaal;Antwerpen-Centraal
+P;7208;Mol;Bruxelles-Midi/Brussel-Zuid
+P;7209;Mol;Bruxelles-Midi/Brussel-Zuid
+P;7214;Hasselt;Antwerpen-Centraal
+P;7215;Hasselt;Antwerpen-Centraal
+P;7250;Sint-Niklaas;Antwerpen-Centraal
+P;7252;Sint-Niklaas;Antwerpen-Centraal
+P;7256;Noorderkempen;Antwerpen-Centraal
+P;7257;Noorderkempen;Antwerpen-Centraal
+P;7258;Noorderkempen;Antwerpen-Centraal
+P;7277;Antwerpen-Centraal;Noorderkempen
+P;7278;Antwerpen-Centraal;Noorderkempen
+P;7279;Antwerpen-Centraal;Noorderkempen
+P;7280;Aarschot;Antwerpen-Centraal
+P;7281;Leuven;Antwerpen-Centraal
+P;7282;Aarschot;Antwerpen-Centraal
+P;7283;Aarschot;Antwerpen-Centraal
+P;7290;Sint-Niklaas;Antwerpen-Centraal
+P;7291;Sint-Niklaas;Antwerpen-Centraal
+P;7295;Sint-Niklaas;Antwerpen-Centraal
+P;7300;Landen;Bruxelles-Midi/Brussel-Zuid
+P;7301;Genk;Bruxelles-Midi/Brussel-Zuid
+P;7302;Landen;Bruxelles-Midi/Brussel-Zuid
+P;7303;Genk;Bruxelles-Midi/Brussel-Zuid
+P;7305;Tongeren;Bruxelles-Midi/Brussel-Zuid
+P;7306;Tongeren;Bruxelles-Midi/Brussel-Zuid
+P;7307;Tongeren;Hasselt
+P;7311;Leuven;Genk
+P;7361;Hasselt;Leuven
+P;7362;Hasselt;Leuven
+P;7363;Hasselt;Leuven
+P;7377;Landen;Liège-Guillemins
+P;7378;Landen;Liège-Guillemins
+P;7379;Liège-Guillemins;Waremme
+P;7386;Leuven;Sint-Niklaas
+P;7387;Leuven;Mechelen
+P;7388;Leuven;Mechelen
+P;7400;Liège-Guillemins;Bruxelles-Midi/Brussel-Zuid
+P;7401;Liège-Guillemins;Bruxelles-Midi/Brussel-Zuid
+P;7444;Visé;Bruxelles-Midi/Brussel-Zuid
+P;7445;Visé;Bruxelles-Midi/Brussel-Zuid
+P;7451;Welkenraedt;Herstal
+P;7461;Statte;Liège-Guillemins
+P;7481;Liège-Guillemins;Statte
+P;7482;Trois-Ponts;Gouvy
+P;7483;Gouvy;Liège-Guillemins
+P;7484;Gouvy;Liège-Palais
+P;7485;Gouvy;Liège-Palais
+P;7486;Gouvy;Trois-Ponts
+P;7487;Huy;Namur
+P;7488;Huy;Namur
+P;7489;Liège-Palais;Rivage
+P;7490;Herstal;Gouvy
+P;7493;Waremme;Liège-Guillemins
+P;7494;Spa-Géronstère;Verviers-Central
+P;7495;Spa-Géronstère;Pépinster
+P;7496;Visé;Liège-Guillemins
+P;7497;Spa-Géronstère;Verviers-Central
+P;7511;Mouscron;Tournai
+P;7512;Tournai;Bruxelles-Midi/Brussel-Zuid
+P;7513;Mouscron;Schaerbeek/Schaarbeek
+P;7514;Tournai;Bruxelles-Midi/Brussel-Zuid
+P;7515;Mouscron;Schaerbeek/Schaarbeek
+P;7520;Tournai;Mons
+P;7521;Tournai;Mons
+P;7565;Tournai;Mons
+S6;7572;Geraardsbergen;Bruxelles-Midi/Brussel-Zuid
+S6;7574;Geraardsbergen;Schaerbeek/Schaarbeek
+P;7580;Ath;Mons
+P;7582;Mons;Ath
+P;7585;Ath;Jurbise
+P;7592;Geraardsbergen;Ath
+P;7593;Geraardsbergen;Ath
+P;7594;Geraardsbergen;Ath
+P;7596;Ath;Geraardsbergen
+P;7600;Jemelle;Namur
+P;7601;Namur;Bruxelles-Midi/Brussel-Zuid
+P;7602;Arlon;Namur
+P;7604;Gembloux;Bruxelles-Midi/Brussel-Zuid
+L;7606;Gouvy;Luxembourg
+L;7608;Gouvy;Luxembourg
+P;7610;Jemelle;Ciney
+P;7611;Ciney;Libramont
+P;7612;Libramont;Ciney
+P;7621;Arlon;Libramont
+P;7622;Arlon;Virton
+P;7650;Gembloux;Ottignies
+P;7651;Namur;Ottignies
+P;7652;Rhisnes;Ottignies
+P;7653;Ottignies;Rhisnes
+P;7656;Arlon;Luxembourg
+P;7657;Arlon;Luxembourg
+S81;7658;Schaerbeek/Schaarbeek;Ottignies
+S81;7659;Ottignies;Schaerbeek/Schaarbeek
+S81;7660;Ottignies;Schaerbeek/Schaarbeek
+P;7661;Dinant;Namur
+P;7662;Bertrix;Namur
+S81;7665;Ottignies;Schaerbeek/Schaarbeek
+P;7667;Virton;Arlon
+P;7668;Libramont;Arlon
+P;7670;Namur;Sart-Bernard
+P;7671;Sart-Bernard;Namur
+P;7672;Jemelle;Libramont
+P;7675;Jemelle;Liège-Palais
+P;7676;Liège-Palais;Marloie
+P;7677;Libramont;Arlon
+P;7680;Bertrix;Libramont
+P;7681;Bertrix;Dinant
+P;7682;Bertrix;Dinant
+P;7683;Libramont;Arlon
+P;7684;Gedinne;Bertrix
+P;7685;Jambes;Charleroi-Sud
+P;7687;Athus;Luxembourg
+P;7688;Arlon;Libramont
+P;7689;Arlon;Libramont
+P;7690;Tamines;Gembloux
+P;7691;Gembloux;Jemeppe-sur-Sambre
+P;7692;Jemeppe-sur-Sambre;Gembloux
+P;7693;Gembloux;Jemeppe-sur-Sambre
+P;7694;Bertrix;Libramont
+P;7696;Bertrix;Libramont
+P;7710;Couvin;Charleroi-Sud
+P;7711;Couvin;Charleroi-Sud
+P;7712;Walcourt;Charleroi-Sud
+P;7713;Couvin;Charleroi-Sud
+P;7714;Couvin;Charleroi-Sud
+P;7715;Walcourt;Charleroi-Sud
+P;7717;Charleroi-Sud;Couvin
+P;7718;Charleroi-Sud;Walcourt
+P;7719;Walcourt;Charleroi-Sud
+P;7721;Jemeppe-sur-Sambre;Schaerbeek/Schaarbeek
+P;7722;Châtelet;Schaerbeek/Schaarbeek
+P;7723;Jemeppe-sur-Sambre;Schaerbeek/Schaarbeek
+P;7724;Châtelet;Schaerbeek/Schaarbeek
+P;7740;Binche;Braine-le-Comte
+P;7741;Binche;Schaerbeek/Schaarbeek
+P;7749;Erquelinnes;Charleroi-Sud
+P;7750;Erquelinnes;Charleroi-Sud
+P;7751;Charleroi-Sud;Ottignies
+P;7752;Charleroi-Sud;Ottignies
+P;7753;Charleroi-Sud;Ottignies
+P;7754;Charleroi-Sud;Erquelinnes
+P;7771;Manage;Braine-le-Comte
+P;7772;Manage;Luttre
+P;7773;La Louvière-Sud;Mons
+P;7774;Manage;Quévy
+P;7775;Luttre;La Louvière-Sud
+P;7776;Charleroi-Sud;La Louvière-Sud
+P;7780;Manage;Luttre
+P;7785;Charleroi-Sud;Jambes
+P;7786;Charleroi-Sud;Namur
+P;7792;Luttre;Charleroi-Sud
+P;7793;Charleroi-Sud;Luttre
+P;7794;Luttre;Charleroi-Sud
+P;7795;Charleroi-Sud;Luttre
+P;7800;Quiévrain;Schaerbeek/Schaarbeek
+P;7801;Quévy;Schaerbeek/Schaarbeek
+P;7802;Quiévrain;Schaerbeek/Schaarbeek
+P;7803;Saint-Ghislain;Schaerbeek/Schaarbeek
+P;7861;Mons;Tournai
+P;7862;Mons;Tournai
+P;7864;Quiévrain;Saint-Ghislain
+P;7866;Mons;Tournai
+P;7874;La Louvière-Sud;Charleroi-Sud
+P;7880;Quévy;Mons
+P;7881;Quévy;Mons
+P;7882;Mons;Quévy
+P;7901;Kortrijk;Schaerbeek/Schaarbeek
+P;7902;Kortrijk;Schaerbeek/Schaarbeek
+P;7903;Oostende;Schaerbeek/Schaarbeek
+P;7921;Geraardsbergen;Denderleeuw
+P;7922;Geraardsbergen;Denderleeuw
+P;7923;Geraardsbergen;Denderleeuw
+P;7951;Oudenaarde;Schaerbeek/Schaarbeek
+P;7952;Kortrijk;Schaerbeek/Schaarbeek
+P;7953;Zottegem;Schaerbeek/Schaarbeek
+P;7954;Kortrijk;Schaerbeek/Schaarbeek
+S3;7955;Zottegem;Schaerbeek/Schaarbeek
+P;7956;Kortrijk;Zottegem
+P;7957;Zottegem;Kortrijk
+P;7958;Denderleeuw;Kortrijk
+P;7960;Geraardsbergen;Oudenaarde
+P;7961;Ronse/Renaix;Geraardsbergen
+P;7962;Ronse/Renaix;Geraardsbergen
+P;7963;Ronse/Renaix;Gent-Sint-Pieters
+P;7964;Gent-Sint-Pieters;Ronse/Renaix
+P;7966;Geraardsbergen;Gent-Sint-Pieters
+P;7967;Geraardsbergen;Gent-Sint-Pieters
+P;7968;Geraardsbergen;Gent-Sint-Pieters
+P;7969;Geraardsbergen;Zottegem
+P;7970;Geraardsbergen;Gent-Sint-Pieters
+P;7971;Geraardsbergen;Denderleeuw
+S6;7972;Geraardsbergen;Denderleeuw
+P;7973;Geraardsbergen;Gent-Sint-Pieters
+S6;7974;Geraardsbergen;Denderleeuw
+P;7975;Geraardsbergen;Gent-Sint-Pieters
+S6;7976;Geraardsbergen;Denderleeuw
+P;7977;Geraardsbergen;Denderleeuw
+P;7978;Geraardsbergen;Denderleeuw
+S6;7979;Denderleeuw;Geraardsbergen
+P;7980;Aalst;Burst
+P;7981;Burst;Aalst
+P;7982;Aalst;Burst
+P;7983;Burst;Aalst
+P;7984;Aalst;Burst
+P;7985;Burst;Aalst
+P;7986;Aalst;Burst
+P;7987;Burst;Aalst
+P;7990;Roeselare;Kortrijk
+P;7991;Gent-Sint-Pieters;Kortrijk
+P;7992;Kortrijk;Brugge
+P;7993;Brugge;Kortrijk
+P;7994;Kortrijk;Brugge
+P;7995;De Panne;Gent-Sint-Pieters
+P;7996;Kortrijk;Gent-Sint-Pieters
+P;7997;Kortrijk;Gent-Sint-Pieters
+P;7998;Kortrijk;Gent-Sint-Pieters
+P;7999;Gent-Sint-Pieters;Kortrijk
+P;8001;Schaerbeek/Schaarbeek;Oostende
+P;8002;Schaerbeek/Schaarbeek;Oostende
+P;8006;Schaerbeek/Schaarbeek;De Panne
+P;8007;Schaerbeek/Schaarbeek;De Panne
+P;8008;Schaerbeek/Schaarbeek;Poperinge
+P;8009;Schaerbeek/Schaarbeek;Poperinge
+P;8011;Schaerbeek/Schaarbeek;Gent-Sint-Pieters
+P;8012;Schaerbeek/Schaarbeek;Gent-Sint-Pieters
+P;8013;Schaerbeek/Schaarbeek;Sint-Niklaas
+P;8014;Schaerbeek/Schaarbeek;Gent-Sint-Pieters
+S10;8015;Bruxelles-Midi/Brussel-Zuid;Aalst
+S10;8016;Bruxelles-Midi/Brussel-Zuid;Aalst
+P;8051;Brugge;Gent-Sint-Pieters
+P;8053;Gent-Sint-Pieters;Brugge
+P;8054;Gent-Sint-Pieters;Brugge
+P;8055;Gent-Sint-Pieters;Brugge
+P;8057;Zeebrugge-Dorp;Brugge
+P;8058;Brugge;Zeebrugge-Dorp
+P;8064;Brugge;Knokke
+P;8065;Brugge;Knokke
+P;8082;Kortrijk;Poperinge
+P;8084;Eeklo;Gent-Sint-Pieters
+P;8085;Gent-Sint-Pieters;Eeklo
+P;8086;Mechelen;Leuven
+P;8087;Mechelen;Leuven
+P;8088;Sint-Niklaas;Leuven
+P;8090;Gent-Sint-Pieters;Dendermonde
+S3;8092;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+S3;8094;Bruxelles-Midi/Brussel-Zuid;Dendermonde
+P;8098;Dendermonde;Mechelen
+P;8200;Antwerpen-Centraal;Roosendaal
+P;8209;Bruxelles-Midi/Brussel-Zuid;Mol
+P;8214;Antwerpen-Centraal;Hasselt
+P;8215;Antwerpen-Centraal;Hasselt
+P;8250;Antwerpen-Centraal;Puurs
+P;8252;Antwerpen-Centraal;Sint-Niklaas
+P;8266;Antwerpen-Centraal;Noorderkempen
+P;8267;Antwerpen-Centraal;Noorderkempen
+P;8268;Antwerpen-Centraal;Noorderkempen
+P;8281;Antwerpen-Centraal;Aarschot
+P;8282;Antwerpen-Centraal;Aarschot
+P;8283;Antwerpen-Centraal;Aarschot
+P;8286;Noorderkempen;Antwerpen-Centraal
+P;8287;Noorderkempen;Antwerpen-Centraal
+P;8291;Sint-Niklaas;Antwerpen-Centraal
+P;8292;Antwerpen-Centraal;Sint-Niklaas
+P;8293;Antwerpen-Centraal;Sint-Niklaas
+P;8301;Bruxelles-Midi/Brussel-Zuid;Hasselt
+P;8302;Bruxelles-Midi/Brussel-Zuid;Hasselt
+P;8303;Bruxelles-Midi/Brussel-Zuid;Genk
+P;8304;Bruxelles-Midi/Brussel-Zuid;Landen
+P;8305;Bruxelles-Midi/Brussel-Zuid;Tongeren
+P;8306;Bruxelles-Midi/Brussel-Zuid;Tongeren
+P;8307;Hasselt;Tongeren
+P;8311;Hasselt;Genk
+P;8336;Genk;Leuven
+P;8342;Tongeren;Hasselt
+P;8362;Leuven;Hasselt
+P;8363;Leuven;Hasselt
+P;8364;Leuven;Hasselt
+P;8385;Sint-Niklaas;Mechelen
+P;8386;Mechelen;Sint-Niklaas
+P;8387;Leuven;Mechelen
+P;8388;Mechelen;Dendermonde
+P;8389;Mechelen;Sint-Niklaas
+P;8390;Leuven;Sint-Niklaas
+P;8397;Mechelen;Dendermonde
+P;8400;Bruxelles-Midi/Brussel-Zuid;Liège-Guillemins
+P;8401;Bruxelles-Midi/Brussel-Zuid;Liège-Guillemins
+P;8417;Liège-Guillemins;Visé
+P;8444;Bruxelles-Midi/Brussel-Zuid;Visé
+P;8445;Bruxelles-Midi/Brussel-Zuid;Visé
+P;8452;Liège-Palais;Verviers-Central
+P;8461;Liège-Guillemins;Statte
+P;8481;Huy;Liège-Guillemins
+P;8482;Namur;Huy
+P;8483;Liège-Palais;Gouvy
+P;8484;Liège-Palais;Gouvy
+P;8485;Liège-Palais;Gouvy
+P;8486;Namur;Huy
+P;8487;Trois-Ponts;Gouvy
+P;8490;Waremme;Liège-Guillemins
+P;8512;Bruxelles-Midi/Brussel-Zuid;Tournai
+P;8513;Schaerbeek/Schaarbeek;Mouscron
+P;8514;Bruxelles-Midi/Brussel-Zuid;Tournai
+P;8515;Schaerbeek/Schaarbeek;Mouscron
+P;8519;Tournai;Mouscron
+P;8561;Mons;Quiévrain
+S6;8572;Bruxelles-Midi/Brussel-Zuid;Geraardsbergen
+S6;8574;Schaerbeek/Schaarbeek;Geraardsbergen
+S6;8576;Enghien/Edingen;Geraardsbergen
+P;8581;Ath;Tournai
+P;8582;Ath;Tournai
+P;8589;Ath;Geraardsbergen
+P;8590;Mons;Ath
+P;8591;Ath;Geraardsbergen
+P;8592;Mons;Ath
+P;8593;Ath;Geraardsbergen
+P;8600;Bruxelles-Midi/Brussel-Zuid;Dinant
+P;8601;Namur;Arlon
+P;8602;Bruxelles-Midi/Brussel-Zuid;Namur
+P;8603;Namur;Jemelle
+P;8604;Bruxelles-Midi/Brussel-Zuid;Gembloux
+P;8606;Namur;Libramont
+P;8613;Ciney;Jemelle
+P;8614;Ciney;Libramont
+P;8615;Arlon;Libramont
+P;8616;Dinant;Libramont
+P;8617;Rodange;Virton
+P;8618;Rodange;Virton
+P;8619;Rodange;Virton
+P;8620;Arlon;Libramont
+P;8622;Arlon;Virton
+P;8626;Libramont;Arlon
+P;8627;Libramont;Ciney
+L;8641;Luxembourg;Gouvy
+L;8643;Luxembourg;Gouvy
+P;8650;Namur;Ottignies
+S8;8651;Louvain-la-Neuve-Université;Ottignies
+P;8655;Ottignies;Namur
+P;8657;Ottignies;Namur
+S81;8659;Schaerbeek/Schaarbeek;Ottignies
+S81;8660;Schaerbeek/Schaarbeek;Ottignies
+P;8662;Namur;Bertrix
+P;8665;Dinant;Namur
+P;8666;Arlon;Libramont
+P;8667;Libramont;Arlon
+P;8668;Luxembourg;Athus
+P;8670;Namur;Sart-Bernard
+P;8671;Sart-Bernard;Namur
+P;8676;Liège-Palais;Jemelle
+P;8677;Luxembourg;Arlon
+P;8678;Luxembourg;Arlon
+P;8679;Luxembourg;Arlon
+P;8681;Bertrix;Dinant
+P;8685;Charleroi-Sud;Namur
+L;8686;Athus;Luxembourg
+P;8690;Jemeppe-sur-Sambre;Gembloux
+P;8691;Gembloux;Jemeppe-sur-Sambre
+P;8692;Jemeppe-sur-Sambre;Gembloux
+P;8693;Gembloux;Tamines
+P;8710;Charleroi-Sud;Walcourt
+P;8711;Charleroi-Sud;Couvin
+P;8712;Charleroi-Sud;Couvin
+P;8713;Charleroi-Sud;Couvin
+P;8714;Couvin;Charleroi-Sud
+P;8721;Schaerbeek/Schaarbeek;Charleroi-Sud
+P;8722;Schaerbeek/Schaarbeek;Jemeppe-sur-Sambre
+P;8723;Schaerbeek/Schaarbeek;Charleroi-Sud
+P;8724;Schaerbeek/Schaarbeek;Jemeppe-sur-Sambre
+P;8741;Schaerbeek/Schaarbeek;Binche
+P;8742;Braine-le-Comte;Binche
+P;8750;Charleroi-Sud;Erquelinnes
+P;8751;Charleroi-Sud;Erquelinnes
+P;8754;Erquelinnes;Charleroi-Sud
+P;8755;Ottignies;Charleroi-Sud
+P;8756;Ottignies;Charleroi-Sud
+P;8757;Ottignies;Charleroi-Sud
+P;8770;Braine-le-Comte;Manage
+P;8772;Braine-le-Comte;Manage
+P;8775;Mons;Manage
+P;8776;Luttre;Manage
+P;8777;Luttre;Manage
+P;8785;Namur;Charleroi-Sud
+P;8787;Namur;Charleroi-Sud
+P;8792;Luttre;Charleroi-Sud
+P;8793;Charleroi-Sud;Luttre
+P;8794;Luttre;Charleroi-Sud
+P;8795;Charleroi-Sud;Luttre
+P;8800;Schaerbeek/Schaarbeek;Saint-Ghislain
+P;8801;Schaerbeek/Schaarbeek;Quévy
+P;8802;Schaerbeek/Schaarbeek;Quévy
+P;8803;Schaerbeek/Schaarbeek;Quiévrain
+P;8861;Mons;Tournai
+P;8862;Tournai;Mons
+P;8880;Mons;Quévy
+P;8882;Mons;Quévy
+P;8901;Schaerbeek/Schaarbeek;Kortrijk
+P;8902;Schaerbeek/Schaarbeek;Kortrijk
+P;8903;Schaerbeek/Schaarbeek;Kortrijk
+P;8921;Denderleeuw;Geraardsbergen
+P;8922;Denderleeuw;Geraardsbergen
+P;8951;Schaerbeek/Schaarbeek;Kortrijk
+S3;8952;Schaerbeek/Schaarbeek;Zottegem
+P;8953;Schaerbeek/Schaarbeek;Kortrijk
+P;8954;Schaerbeek/Schaarbeek;Zottegem
+P;8955;Schaerbeek/Schaarbeek;Kortrijk
+P;8956;Zottegem;Denderleeuw
+P;8958;Kortrijk;Zottegem
+P;8959;Poperinge;Zottegem
+P;8960;Oudenaarde;Geraardsbergen
+P;8961;Gent-Sint-Pieters;Ronse/Renaix
+P;8962;Geraardsbergen;Ronse/Renaix
+P;8963;Geraardsbergen;Ronse/Renaix
+P;8965;Zottegem;Geraardsbergen
+P;8966;Gent-Sint-Pieters;Geraardsbergen
+P;8967;Gent-Sint-Pieters;Geraardsbergen
+P;8968;Gent-Sint-Pieters;Geraardsbergen
+P;8970;Denderleeuw;Geraardsbergen
+S6;8971;Denderleeuw;Geraardsbergen
+P;8972;Gent-Sint-Pieters;Geraardsbergen
+S6;8973;Denderleeuw;Geraardsbergen
+P;8974;Gent-Sint-Pieters;Geraardsbergen
+S6;8975;Denderleeuw;Geraardsbergen
+P;8979;Geraardsbergen;Denderleeuw
+P;8980;Aalst;Burst
+P;8981;Burst;Aalst
+P;8982;Aalst;Burst
+P;8983;Burst;Aalst
+P;8984;Aalst;Burst
+P;8985;Burst;Aalst
+P;8992;Brugge;Kortrijk
+P;8993;Kortrijk;Brugge
+P;8994;Kortrijk;Brugge
+P;8995;Gent-Sint-Pieters;De Panne
+P;8996;Gent-Sint-Pieters;Lichtervelde
+P;8997;Gent-Sint-Pieters;Kortrijk
+P;8998;Gent-Sint-Pieters;Kortrijk
+P;8999;Gent-Sint-Pieters;Kortrijk
+EST;9108;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9109;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9110;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9113;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9114;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9116;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9117;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9125;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9126;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9132;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9133;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9136;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9140;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9141;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9145;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9148;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9149;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9152;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9153;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9157;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+EST;9158;London St Pancras International;Bruxelles-Midi/Brussel-Zuid
+EST;9161;Bruxelles-Midi/Brussel-Zuid;London St Pancras International
+IC;9211;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9212;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9215;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9216;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9219;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9220;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9223;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9224;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9227;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9228;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9231;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9232;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9235;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9236;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9239;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9240;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9243;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9244;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9247;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9248;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9251;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9252;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9255;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9256;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9259;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9260;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9263;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9264;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9267;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9268;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+IC;9271;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+IC;9272;Amsterdam CS;Bruxelles-Midi/Brussel-Zuid
+THA;9302;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9303;Paris-Nord;Amsterdam CS
+THA;9304;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9305;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9308;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9309;Paris-Nord;Amsterdam CS
+THA;9310;Amsterdam CS;Paris-Nord
+THA;9312;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9313;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9315;Paris-Nord;Amsterdam CS
+THA;9316;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9319;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9321;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9322;Amsterdam CS;Paris-Nord
+THA;9325;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9327;Paris-Nord;Amsterdam CS
+THA;9328;Amsterdam CS;Paris-Nord
+THA;9333;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9336;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9339;Paris-Nord;Amsterdam CS
+THA;9340;Amsterdam CS;Paris-Nord
+THA;9341;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9351;Paris-Nord;Amsterdam CS
+THA;9352;Amsterdam CS;Paris-Nord
+THA;9356;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9357;Paris-Nord;Amsterdam CS
+THA;9358;Amsterdam CS;Paris-Nord
+THA;9360;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9361;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9363;Paris-Nord;Amsterdam CS
+THA;9364;Amsterdam CS;Paris-Nord
+THA;9365;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9368;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9369;Paris-Nord;Amsterdam CS
+THA;9370;Amsterdam CS;Paris-Nord
+THA;9372;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9373;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9375;Paris-Nord;Amsterdam CS
+THA;9376;Amsterdam CS;Paris-Nord
+THA;9377;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9380;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9381;Paris-Nord;Amsterdam CS
+THA;9382;Amsterdam CS;Paris-Nord
+THA;9387;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9388;Amsterdam CS;Paris-Nord
+THA;9389;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9390;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9391;Bruxelles-Midi/Brussel-Zuid;Amsterdam CS
+THA;9395;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9401;Paris-Nord;Essen Hbf
+THA;9409;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9410;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9412;Dortmund Hbf;Paris-Nord
+THA;9413;Paris-Nord;Dortmund Hbf
+THA;9422;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9424;Dortmund Hbf;Paris-Nord
+THA;9428;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9437;Paris-Nord;Essen Hbf
+THA;9439;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9440;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9448;Köln Hbf;Paris-Nord
+THA;9451;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9452;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9457;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9458;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9461;Paris-Nord;Dortmund Hbf
+THA;9464;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9469;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9470;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9472;Dortmund Hbf;Paris-Nord
+THA;9473;Paris-Nord;Dortmund Hbf
+THA;9475;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9476;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+THA;9481;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+THA;9484;Essen Hbf;Paris-Nord
+IZY;9601;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+IZY;9602;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+IZY;9603;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+IZY;9604;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+IZY;9609;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+IZY;9610;Bruxelles-Midi/Brussel-Zuid;Paris-Nord
+IZY;9615;Paris-Nord;Bruxelles-Midi/Brussel-Zuid
+TGV;9809;Lille Europe;Bruxelles-Midi/Brussel-Zuid
+TGV;9810;Bruxelles-Midi/Brussel-Zuid;Marseille-Saint-Charles
+TGV;9812;Bruxelles-Midi/Brussel-Zuid;Montpellier Saint-Roch
+TGV;9826;Bruxelles-Midi/Brussel-Zuid;Marseille-Saint-Charles
+TGV;9828;Bruxelles-Midi/Brussel-Zuid;Nice-Ville
+TGV;9836;Bruxelles-Midi/Brussel-Zuid;Perpignan
+TGV;9846;Bruxelles-Midi/Brussel-Zuid;Lyon Part Dieu
+TGV;9853;Lyon Part Dieu;Bruxelles-Midi/Brussel-Zuid
+TGV;9855;Marseille-Saint-Charles;Bruxelles-Midi/Brussel-Zuid
+TGV;9861;Marseille-Saint-Charles;Bruxelles-Midi/Brussel-Zuid
+TGV;9863;Montpellier Saint-Roch;Bruxelles-Midi/Brussel-Zuid
+TGV;9867;Nice Ville;Bruxelles-Midi/Brussel-Zuid
+TGV;9869;Montpellier Saint-Roch;Bruxelles-Midi/Brussel-Zuid
+TGV;9870;Bruxelles-Midi/Brussel-Zuid;Strasbourg
+TGV;9874;Bruxelles-Midi/Brussel-Zuid;Strasbourg
+TGV;9883;Marseille-Saint-Charles;Bruxelles-Midi/Brussel-Zuid
+TGV;9890;Strasbourg;Bruxelles-Midi/Brussel-Zuid
+TGV;9895;Strasbourg;Bruxelles-Midi/Brussel-Zuid
+THA;9975;Lille Europe;Amsterdam CS
+THA;9993;Lille Europe;Amsterdam CS
+THA;9994;Amsterdam CS;Lille Europe
+THA;9995;Lille Europe;Amsterdam CS
+THA;9996;Amsterdam CS;Lille Europe
+THA;9998;Amsterdam CS;Lille Europe
+IC;19701;Lille-Flandres;Kortrijk
+IC;19702;Kortrijk;Lille-Flandres
+IC;19704;Kortrijk;Lille-Flandres
+IC;19705;Lille-Flandres;Kortrijk
+IC;19707;Lille-Flandres;Kortrijk
+IC;19708;Kortrijk;Lille-Flandres
+IC;19709;Lille-Flandres;Kortrijk
+IC;19710;Kortrijk;Lille-Flandres
+IC;19713;Lille-Flandres;Kortrijk
+IC;19714;Kortrijk;Lille-Flandres
+IC;19715;Lille-Flandres;Kortrijk
+IC;19716;Kortrijk;Lille-Flandres
+IC;19718;Kortrijk;Lille-Flandres
+IC;19719;Lille-Flandres;Kortrijk
+IC;19720;Kortrijk;Lille-Flandres
+IC;19722;Kortrijk;Lille-Flandres
+IC;19724;Kortrijk;Lille-Flandres
+IC;19725;Lille-Flandres;Kortrijk
+IC;19726;Kortrijk;Lille-Flandres
+IC;19728;Kortrijk;Lille-Flandres
+IC;19729;Lille-Flandres;Kortrijk
+IC;19730;Kortrijk;Lille-Flandres
+IC;19734;Kortrijk;Lille-Flandres
+IC;19735;Lille-Flandres;Kortrijk
+IC;19736;Kortrijk;Lille-Flandres
+IC;19737;Lille-Flandres;Kortrijk
+IC;19741;Lille-Flandres;Kortrijk
+IC;19743;Lille-Flandres;Kortrijk
+IC;19745;Lille-Flandres;Kortrijk
+IC;19747;Lille-Flandres;Kortrijk
+IC;19900;Tournai;Lille-Flandres
+IC;19901;Lille-Flandres;Tournai
+IC;19903;Lille-Flandres;Tournai
+IC;19904;Tournai;Lille-Flandres
+IC;19905;Lille-Flandres;Tournai
+IC;19906;Tournai;Lille-Flandres
+IC;19909;Lille-Flandres;Tournai
+IC;19912;Tournai;Lille-Flandres
+IC;19914;Tournai;Lille-Flandres
+IC;19915;Lille-Flandres;Tournai
+IC;19918;Tournai;Lille-Flandres
+IC;19919;Lille-Flandres;Tournai
+IC;19922;Tournai;Lille-Flandres
+IC;19927;Lille-Flandres;Tournai
+IC;19928;Tournai;Lille-Flandres
+IC;19932;Tournai;Lille-Flandres
+IC;19933;Lille-Flandres;Tournai
+IC;19938;Tournai;Lille-Flandres
+IC;19941;Lille-Flandres;Tournai
+IC;19945;Lille-Flandres;Tournai
+IC;19946;Tournai;Lille-Flandres
+IC;19951;Lille-Flandres;Tournai
+IC;19952;Tournai;Lille-Flandres
+IC;19953;Lille-Flandres;Tournai
+IC;19956;Tournai;Lille-Flandres
+IC;19958;Tournai;Lille-Flandres
+IC;19959;Lille-Flandres;Tournai
+IC;19962;Tournai;Lille-Flandres
+IC;19963;Lille-Flandres;Tournai
+IC;19966;Tournai;Lille-Flandres
+IC;19967;Lille-Flandres;Tournai
+IC;19970;Tournai;Lille-Flandres
+IC;19974;Tournai;Lille-Flandres
+IC;19975;Lille-Flandres;Tournai

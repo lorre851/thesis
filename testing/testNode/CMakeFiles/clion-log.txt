@@ -1,0 +1,4 @@
+/home/lorre851/CLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/lorre851/CLionProjects/testsuite
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lorre851/CLionProjects/testsuite

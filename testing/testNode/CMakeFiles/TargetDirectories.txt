@@ -1,0 +1,3 @@
+/home/lorre851/thesis/testing/testsuite/CMakeFiles/rebuild_cache.dir
+/home/lorre851/thesis/testing/testsuite/CMakeFiles/edit_cache.dir
+/home/lorre851/thesis/testing/testsuite/CMakeFiles/main.dir

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="THESIS_TESTSUITE"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lorre851/CLionProjects/testsuite"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lorre851/CLionProjects/testsuite"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lorre851/CLionProjects/testsuite"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/home/lorre851/CLionProjects/testsuite/build/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/home/lorre851/CLionProjects/testsuite/build/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/lorre851/CLionProjects/testsuite/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/camerascanner.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/camerascanner.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/config.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/config.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/cvserver.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/cvserver.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/stereotools.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/stereotools.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/streamgrid.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/streamgrid.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/zeromq_tools.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/src/zeromq_tools.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/testsuite/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

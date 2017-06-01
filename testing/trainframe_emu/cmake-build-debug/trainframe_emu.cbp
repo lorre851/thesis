@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trainframe_emu"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trainframe_emu">
+				<Option output="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/trainframe_emu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 trainframe_emu"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trainframe_emu/fast">
+				<Option output="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/trainframe_emu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 trainframe_emu/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lorre851/CLionProjects/trainframe_emu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/cvclient.cpp">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/cvclient.h">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/depthpeopledetector.cpp">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/depthpeopledetector.h">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/interfaces.cpp">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/interfaces.h">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/main.cpp">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/zeromq_tools.cpp">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/src/zeromq_tools.h">
+			<Option target="trainframe_emu"/>
+		</Unit>
+		<Unit filename="/home/lorre851/CLionProjects/trainframe_emu/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
