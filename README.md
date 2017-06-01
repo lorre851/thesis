@@ -7,7 +7,6 @@ De map 'setup' bevat enkele bashbestanden die de benodigde libraries voor de ont
 * curlpp / jpbarette - http://www.curlpp.org/
 * OpenCV 3.1.0 - http://opencv.org/
 * ZeroMQ - http://zeromq.org/
-Overige libraries:
 * avahi-daemon
 * avahi-dnsconfd
 * avahi-discover
